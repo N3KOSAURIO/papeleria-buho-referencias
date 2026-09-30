@@ -1,0 +1,3454 @@
+{
+ "fuente": "INVENTARIO DEFINITIVO DONACION.pdf (10 páginas, valores = avalúo de la donación)",
+ "extraido": "2026-09-30",
+ "moneda": "COP",
+ "total_avaluo_impreso_cop": 200000000,
+ "total_suma_renglones_cop": 200000006.0,
+ "bloques": {
+  "b1": {
+   "titulo": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "filas": 402,
+   "total_cop": 127021200.0
+  },
+  "b2": {
+   "titulo": "EQUIPOS",
+   "filas": 5,
+   "total_cop": 24030000.0
+  },
+  "b3": {
+   "titulo": "MOBILIARIO",
+   "filas": 9,
+   "total_cop": 21511330.0
+  },
+  "b4": {
+   "titulo": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "filas": 73,
+   "total_cop": 27437476.0
+  }
+ },
+ "items": [
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA 8.5x 12.5 CM",
+   "cantidad": 40300,
+   "valor_unit_cop": 90.75,
+   "valor_total_cop": 3657225.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 4X56 cm",
+   "cantidad": 24300,
+   "valor_unit_cop": 85.91,
+   "valor_total_cop": 2087613.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 1/2 CARTA",
+   "cantidad": 15300,
+   "valor_unit_cop": 173.03,
+   "valor_total_cop": 2647359.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TARJETA LORD 12x17",
+   "cantidad": 11900,
+   "valor_unit_cop": 157.3,
+   "valor_total_cop": 1871870.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL BOND 1/8 PARA BITACORA",
+   "cantidad": 11000,
+   "valor_unit_cop": 99.22,
+   "valor_total_cop": 1091420.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA 1/2 CARTA",
+   "cantidad": 8300,
+   "valor_unit_cop": 145.2,
+   "valor_total_cop": 1205160.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (4X28cm)",
+   "cantidad": 7276,
+   "valor_unit_cop": 85.91,
+   "valor_total_cop": 625081.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL IRIS PLIEGO 61X92",
+   "cantidad": 5674,
+   "valor_unit_cop": 786.5,
+   "valor_total_cop": 4462601.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 13x10 CM",
+   "cantidad": 4750,
+   "valor_unit_cop": 90.75,
+   "valor_total_cop": 431063.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 5X28cm",
+   "cantidad": 4000,
+   "valor_unit_cop": 104.06,
+   "valor_total_cop": 416240.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (4X56nm)",
+   "cantidad": 3400,
+   "valor_unit_cop": 96.8,
+   "valor_total_cop": 329120.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL SILUETA 70X50",
+   "cantidad": 3100,
+   "valor_unit_cop": 242.0,
+   "valor_total_cop": 750200.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (1/2 CARTA)",
+   "cantidad": 2571,
+   "valor_unit_cop": 248.05,
+   "valor_total_cop": 637737.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA IRIS 70X100cm",
+   "cantidad": 2515,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 7607875.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "RESMILLA CARTA BLANCA Y CREMA",
+   "cantidad": 2300,
+   "valor_unit_cop": 121.0,
+   "valor_total_cop": 278300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA DE COBRO PEQUEÑA PERIODICO",
+   "cantidad": 2164,
+   "valor_unit_cop": 665.5,
+   "valor_total_cop": 1440142.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 14X43.5 cm",
+   "cantidad": 2000,
+   "valor_unit_cop": 275.88,
+   "valor_total_cop": 551760.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 70X100",
+   "cantidad": 1843,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 5575075.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD VERTICAL x 12",
+   "cantidad": 1804,
+   "valor_unit_cop": 292.82,
+   "valor_total_cop": 528247.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA 13x44 CM",
+   "cantidad": 1700,
+   "valor_unit_cop": 165.77,
+   "valor_total_cop": 281809.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MINI CUENTA DE COBRO PERIODICO",
+   "cantidad": 1638,
+   "valor_unit_cop": 423.5,
+   "valor_total_cop": 693693.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL TORNASOL ESTAMPADO 50X70",
+   "cantidad": 1500,
+   "valor_unit_cop": 792.55,
+   "valor_total_cop": 1188825.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK MINI IRIS",
+   "cantidad": 1493,
+   "valor_unit_cop": 605.0,
+   "valor_total_cop": 903265.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (1/2 CARTA)",
+   "cantidad": 1300,
+   "valor_unit_cop": 786.5,
+   "valor_total_cop": 1022450.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL PARAFINADO 20X20",
+   "cantidad": 1250,
+   "valor_unit_cop": 96.8,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA SIN BOLSILLO CARTA",
+   "cantidad": 1243,
+   "valor_unit_cop": 242.0,
+   "valor_total_cop": 300806.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 85X87.5",
+   "cantidad": 1200,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 2178000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA CARTA",
+   "cantidad": 1100,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 1996500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK ORIGAMI 14X14",
+   "cantidad": 994,
+   "valor_unit_cop": 2057.0,
+   "valor_total_cop": 2044658.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TAPA 11x11 VENTANA",
+   "cantidad": 910,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 1211210.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL ACUARELA 1/8 X10",
+   "cantidad": 901,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 1635315.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA CON BOLSILLO CARTA",
+   "cantidad": 862,
+   "valor_unit_cop": 726.0,
+   "valor_total_cop": 625812.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.0mm (1/2 CARTA)",
+   "cantidad": 814,
+   "valor_unit_cop": 248.05,
+   "valor_total_cop": 201913.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 8 x 17 CM",
+   "cantidad": 800,
+   "valor_unit_cop": 90.75,
+   "valor_total_cop": 72600.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA OFICIO",
+   "cantidad": 700,
+   "valor_unit_cop": 202.07,
+   "valor_total_cop": 141449.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL PERGAMINO 70X100cm",
+   "cantidad": 643,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 1945075.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK ORIGAMI 20X20",
+   "cantidad": 636,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 1539120.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROSADO IRIS PAQUETE X 20hojas",
+   "cantidad": 625,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 1890625.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA FLUORECENTE OFICIO",
+   "cantidad": 555,
+   "valor_unit_cop": 387.2,
+   "valor_total_cop": 214896.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON PAJA 70X100cm",
+   "cantidad": 530,
+   "valor_unit_cop": 4356.0,
+   "valor_total_cop": 2308680.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TARJETA TIPO LORD IRIS 5X9",
+   "cantidad": 511,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 1360282.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL BOND OFICIO PARA BITACORA",
+   "cantidad": 500,
+   "valor_unit_cop": 88.33,
+   "valor_total_cop": 44165.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KRAF DELGADO",
+   "cantidad": 500,
+   "valor_unit_cop": 544.5,
+   "valor_total_cop": 272250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FICHAS BIBLIOGRAFICAS",
+   "cantidad": 472,
+   "valor_unit_cop": 2020.7,
+   "valor_total_cop": 953770.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON PAJA 1/8",
+   "cantidad": 420,
+   "valor_unit_cop": 574.75,
+   "valor_total_cop": 241395.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA MIRELLADA 78X100",
+   "cantidad": 419,
+   "valor_unit_cop": 7865.0,
+   "valor_total_cop": 3295435.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 11.5x 50 CM",
+   "cantidad": 400,
+   "valor_unit_cop": 275.88,
+   "valor_total_cop": 110352.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (CIRCULAR)",
+   "cantidad": 400,
+   "valor_unit_cop": 363.0,
+   "valor_total_cop": 145200.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL PERIODICO 70X50",
+   "cantidad": 400,
+   "valor_unit_cop": 302.5,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA METALIZADA 70X100cm",
+   "cantidad": 380,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 2299000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (5X35cm)",
+   "cantidad": 378,
+   "valor_unit_cop": 453.75,
+   "valor_total_cop": 171518.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PICADILLO PARA RELLENO PIÑATAS",
+   "cantidad": 360,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 479160.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA FLOR PEQUEÑA",
+   "cantidad": 359,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 1520365.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 1/2 CARTA",
+   "cantidad": 350,
+   "valor_unit_cop": 137.94,
+   "valor_total_cop": 48279.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FINIGRANA 3mm",
+   "cantidad": 350,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 465850.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK ORIGAMI 10X10",
+   "cantidad": 325,
+   "valor_unit_cop": 1694.0,
+   "valor_total_cop": 550550.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROSADO IRIS PAQUETE X 48hojas",
+   "cantidad": 320,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1936000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD HORIZONTAL x 12",
+   "cantidad": 312,
+   "valor_unit_cop": 292.82,
+   "valor_total_cop": 91360.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "RECIBO CAJA MENOR ECOLOGICO",
+   "cantidad": 311,
+   "valor_unit_cop": 3751.0,
+   "valor_total_cop": 1166561.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 12x17 CM",
+   "cantidad": 300,
+   "valor_unit_cop": 37.51,
+   "valor_total_cop": 11253.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (7X22.5cm)",
+   "cantidad": 300,
+   "valor_unit_cop": 123.42,
+   "valor_total_cop": 37026.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (AGENDA)",
+   "cantidad": 298,
+   "valor_unit_cop": 1183.38,
+   "valor_total_cop": 352647.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL TEXTURIZADO CARTA X10",
+   "cantidad": 290,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 877250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD FOTOGRAFICO x12",
+   "cantidad": 287,
+   "valor_unit_cop": 272.25,
+   "valor_total_cop": 78136.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE LORD GRIS",
+   "cantidad": 269,
+   "valor_unit_cop": 350.9,
+   "valor_total_cop": 94392.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK IRIS CARTA 30h",
+   "cantidad": 266,
+   "valor_unit_cop": 3617.9,
+   "valor_total_cop": 962361.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA ECOLOGICA PEQUEÑA COLORES FORMA FUTURO",
+   "cantidad": 263,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 1113805.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BEIGE IRIS PAQUETE X 48hojas",
+   "cantidad": 261,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1579050.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 70X100",
+   "cantidad": 259,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 783475.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (7X11cm)",
+   "cantidad": 250,
+   "valor_unit_cop": 60.5,
+   "valor_total_cop": 15125.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA GROFADA NEGRA",
+   "cantidad": 250,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 1361250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE LORD VERDE",
+   "cantidad": 244,
+   "valor_unit_cop": 350.9,
+   "valor_total_cop": 85620.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE LORD AMARILLO",
+   "cantidad": 239,
+   "valor_unit_cop": 350.9,
+   "valor_total_cop": 83865.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TARJETA TIPO LORD 8.5X14.5",
+   "cantidad": 230,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 834900.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MORADO IRIS PAQUETE X 48hojas",
+   "cantidad": 226,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1367300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TACO BLANCO GRANDE",
+   "cantidad": 222,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 940170.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (1/4)",
+   "cantidad": 217,
+   "valor_unit_cop": 3872.0,
+   "valor_total_cop": 840224.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON PAJA (1/2 CARTA) BLANCO",
+   "cantidad": 212,
+   "valor_unit_cop": 198.44,
+   "valor_total_cop": 42069.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA NOTAS PEQUEÑA",
+   "cantidad": 212,
+   "valor_unit_cop": 1573.0,
+   "valor_total_cop": 333476.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VERDE IRIS PAQUETE X 48hojas",
+   "cantidad": 207,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1252350.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SEPARADOR CARTA CARTULINA X5 SURTIDO",
+   "cantidad": 204,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 370260.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (22X9cm)",
+   "cantidad": 200,
+   "valor_unit_cop": 165.77,
+   "valor_total_cop": 33154.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 21X21cm",
+   "cantidad": 200,
+   "valor_unit_cop": 252.89,
+   "valor_total_cop": 50578.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FINIGRANA 7mm",
+   "cantidad": 200,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 266200.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON PERGAMINO 50X70",
+   "cantidad": 200,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 363000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "NARANJA IRIS PAQUETE X 48hojas",
+   "cantidad": 199,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1203950.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 18x20 MAXFUERTE",
+   "cantidad": 198,
+   "valor_unit_cop": 2190.1,
+   "valor_total_cop": 433640.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MORADO IRIS PAQUETE X 20hojas",
+   "cantidad": 197,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 595925.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINANEGRA 1/8",
+   "cantidad": 197,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 834295.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA BRISTOL 70X100cm",
+   "cantidad": 193,
+   "valor_unit_cop": 1089.0,
+   "valor_total_cop": 210177.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO 1/2 CARTA MIRELLADO",
+   "cantidad": 190,
+   "valor_unit_cop": 363.0,
+   "valor_total_cop": 68970.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLIGRAFO RETRACTIL 1.0mm OFIMARK",
+   "cantidad": 180,
+   "valor_unit_cop": 665.5,
+   "valor_total_cop": 119790.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ACETATO 70X100cm",
+   "cantidad": 173,
+   "valor_unit_cop": 2299.0,
+   "valor_total_cop": 397727.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROSA HECHA EN CARTULINA",
+   "cantidad": 170,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 308550.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS DIEZMO HORIZONTAL X12",
+   "cantidad": 155,
+   "valor_unit_cop": 252.89,
+   "valor_total_cop": 39198.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL KIMBERLY 17x33 CM",
+   "cantidad": 150,
+   "valor_unit_cop": 252.89,
+   "valor_total_cop": 37934.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR SHARPIE TANK PERMANENTE",
+   "cantidad": 150,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 453750.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA IRIS 1/4 ESTAMPADA",
+   "cantidad": 145,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 614075.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TACO BLANCO PEQUEÑO",
+   "cantidad": 128,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 464640.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VERDE IRIS PAQUETE X 20hojas",
+   "cantidad": 126,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 381150.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BEIGE IRIS PAQUETE X 20hojas",
+   "cantidad": 126,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 381150.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FINIGRANA 1cm",
+   "cantidad": 121,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 161051.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE + TARJETA LORD GRIS X 12",
+   "cantidad": 119,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 575960.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA MIRELLADA 50X100",
+   "cantidad": 119,
+   "valor_unit_cop": 3932.5,
+   "valor_total_cop": 467968.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA DE REGALO KRAF (L)",
+   "cantidad": 113,
+   "valor_unit_cop": 1573.0,
+   "valor_total_cop": 177749.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TACO IRIS GRANDE",
+   "cantidad": 112,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 474320.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL FIBRA 78X100 TELARAÑA??",
+   "cantidad": 112,
+   "valor_unit_cop": 7865.0,
+   "valor_total_cop": 880880.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA DE COBRO MULTIFORMA PEQUEÑO AUTOCOPIANTE",
+   "cantidad": 108,
+   "valor_unit_cop": 2904.0,
+   "valor_total_cop": 313632.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROLLO TIQUETIADORA METTO TEXTIL",
+   "cantidad": 102,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 555390.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSILLO LAMINAR OFICIO",
+   "cantidad": 100,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 133100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA NEGRA 70X100",
+   "cantidad": 100,
+   "valor_unit_cop": 5082.0,
+   "valor_total_cop": 508200.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA FLUORECENTE 70X100",
+   "cantidad": 100,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 302500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MOÑO FACIL GRANDE",
+   "cantidad": 99,
+   "valor_unit_cop": 605.0,
+   "valor_total_cop": 59895.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD 9.5X14cm",
+   "cantidad": 97,
+   "valor_unit_cop": 350.9,
+   "valor_total_cop": 34037.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TAPA MEDIANA MAULE",
+   "cantidad": 96,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 255552.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA TAPA MEDIANA KRAF",
+   "cantidad": 96,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 255552.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR PERMANENTE OFIMARK PUNTA FINA",
+   "cantidad": 96,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 290400.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA GROFADA 70X100",
+   "cantidad": 90,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 272250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FOAMY 4 CARTAS",
+   "cantidad": 90,
+   "valor_unit_cop": 3267.0,
+   "valor_total_cop": 294030.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROLLO TERMICO 57X30",
+   "cantidad": 85,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 359975.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR PERMANENTE OFIMARK",
+   "cantidad": 84,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 254100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLIGRAFI WENXU",
+   "cantidad": 83,
+   "valor_unit_cop": 1089.0,
+   "valor_total_cop": 90387.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL IRIS PAQUETE X 100hojas CARTA",
+   "cantidad": 81,
+   "valor_unit_cop": 12705.0,
+   "valor_total_cop": 1029105.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSILLO LAMINAR CARTA",
+   "cantidad": 80,
+   "valor_unit_cop": 1089.0,
+   "valor_total_cop": 87120.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSILLO LAMINAR CEDULA",
+   "cantidad": 80,
+   "valor_unit_cop": 484.0,
+   "valor_total_cop": 38720.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSILLO LAMINAR MATRICULA",
+   "cantidad": 80,
+   "valor_unit_cop": 484.0,
+   "valor_total_cop": 38720.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA 1/2 CARTA OPALINA",
+   "cantidad": 78,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 849420.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "AZUL IRIS PAQUETE X 20hojas",
+   "cantidad": 76,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 229900.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "AMARILLO IRIS PAQUETE X 20hojas",
+   "cantidad": 76,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 229900.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO TE QUIERO",
+   "cantidad": 74,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 179080.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TACO NOTAS IRIS ESPIRAL",
+   "cantidad": 73,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 176660.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO CILINDRO PEQUEÑO",
+   "cantidad": 71,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 945010.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD 12X18cm",
+   "cantidad": 70,
+   "valor_unit_cop": 338.8,
+   "valor_total_cop": 23716.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (6.5X23cm)",
+   "cantidad": 70,
+   "valor_unit_cop": 111.32,
+   "valor_total_cop": 7792.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR SHARPIE PUNTA DELGADA PERMANENTE",
+   "cantidad": 69,
+   "valor_unit_cop": 3472.7,
+   "valor_total_cop": 239616.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA COLGANTE CARTON AZUL V/P",
+   "cantidad": 69,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 91839.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROTULO CIRCULAR #13",
+   "cantidad": 69,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 208725.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA TRANSPARENTE 48x20 MAX FUERTE",
+   "cantidad": 68,
+   "valor_unit_cop": 12463.0,
+   "valor_total_cop": 847484.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (CARTA)",
+   "cantidad": 66,
+   "valor_unit_cop": 1769.02,
+   "valor_total_cop": 116755.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 24x20 MAX FUERTE",
+   "cantidad": 66,
+   "valor_unit_cop": 2916.1,
+   "valor_total_cop": 192463.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA IRIS X10 (1/8)",
+   "cantidad": 64,
+   "valor_unit_cop": 2964.5,
+   "valor_total_cop": 189728.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUBO IRIS 5X5 (PTE X10)",
+   "cantidad": 134,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 291852.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA COLGANTE CARTON CAFÉ V/P",
+   "cantidad": 63,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 83853.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO CARTA FLUORECENTE",
+   "cantidad": 61,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 221430.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "NARANJA IRIS PAQUETE X 20hojas",
+   "cantidad": 60,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 181500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BORRADOR MIGA DE PAN GIPAO GP-203",
+   "cantidad": 60,
+   "valor_unit_cop": 847.0,
+   "valor_total_cop": 50820.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "COLOR ARTISAN X UNIDAD BLANCO",
+   "cantidad": 60,
+   "valor_unit_cop": 2541.0,
+   "valor_total_cop": 152460.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR PERMANENTE X-BEST",
+   "cantidad": 60,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 159720.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA METALIZADA X10 (1/8)",
+   "cantidad": 58,
+   "valor_unit_cop": 5808.0,
+   "valor_total_cop": 336864.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA DE REGALO NAVIDAD (M)",
+   "cantidad": 55,
+   "valor_unit_cop": 1210.0,
+   "valor_total_cop": 66550.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIRS LORD 19x19",
+   "cantidad": 54,
+   "valor_unit_cop": 484.0,
+   "valor_total_cop": 26136.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO CILINDRO MEDIANO",
+   "cantidad": 54,
+   "valor_unit_cop": 14520.0,
+   "valor_total_cop": 784080.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "OPALINA 70X100",
+   "cantidad": 54,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 98010.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO CARTA L-30",
+   "cantidad": 50,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 181500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GEL ANTIBACTERIAL 30g",
+   "cantidad": 49,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 118580.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLIGRAFO OFFI-ESCO 0.7 OE-076",
+   "cantidad": 47,
+   "valor_unit_cop": 665.5,
+   "valor_total_cop": 31279.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA DE COBRO MULTIFORMA GRANDE AUTOCOPIANTE",
+   "cantidad": 47,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 170610.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LAPIZ GIPAO #2",
+   "cantidad": 45,
+   "valor_unit_cop": 659.45,
+   "valor_total_cop": 29675.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA TRANSPARENTE 12x20 (TACO) MAX FUETE",
+   "cantidad": 44,
+   "valor_unit_cop": 8016.25,
+   "valor_total_cop": 352715.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "YOYO PARA ESCARAPELA",
+   "cantidad": 44,
+   "valor_unit_cop": 1512.5,
+   "valor_total_cop": 66550.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA DE REGALO KRAF (S)",
+   "cantidad": 40,
+   "valor_unit_cop": 1089.0,
+   "valor_total_cop": 43560.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUBO IRIS 8X8 (PTEX 10)",
+   "cantidad": 40,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 87120.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ARCHIVADOR A-Z OFICIO",
+   "cantidad": 40,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 532400.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FOAMY CARTA",
+   "cantidad": 40,
+   "valor_unit_cop": 1197.9,
+   "valor_total_cop": 47916.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL SEDA X5",
+   "cantidad": 39,
+   "valor_unit_cop": 847.0,
+   "valor_total_cop": 33033.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TACO NOTAS IRIS DOBLE",
+   "cantidad": 39,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 94380.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUADERNO IRIS RAYADO",
+   "cantidad": 39,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 519090.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BORRADOR NATA STUDMARK",
+   "cantidad": 38,
+   "valor_unit_cop": 847.0,
+   "valor_total_cop": 32186.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA DE COBRO GRANDE PERIODICO #03",
+   "cantidad": 37,
+   "valor_unit_cop": 968.0,
+   "valor_total_cop": 35816.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "RESALTADOR GIPAO GRUESO",
+   "cantidad": 36,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 47916.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA HILO OFICO GIPAO",
+   "cantidad": 36,
+   "valor_unit_cop": 2117.5,
+   "valor_total_cop": 76230.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO LEGAJADOR PLASTICO MARFIL x20",
+   "cantidad": 35,
+   "valor_unit_cop": 5203.0,
+   "valor_total_cop": 182105.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO LEGAJADOR METALICO X20 TRITON",
+   "cantidad": 35,
+   "valor_unit_cop": 5324.0,
+   "valor_total_cop": 186340.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (MINI)",
+   "cantidad": 34,
+   "valor_unit_cop": 665.5,
+   "valor_total_cop": 22627.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA DE HILO GIPAO CARTA",
+   "cantidad": 34,
+   "valor_unit_cop": 1996.5,
+   "valor_total_cop": 67881.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA DE REGALO NAVIDAD (JUMBO)",
+   "cantidad": 33,
+   "valor_unit_cop": 2057.0,
+   "valor_total_cop": 67881.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA TRANSPARENTE 24x40 MAX FUERTE",
+   "cantidad": 32,
+   "valor_unit_cop": 2299.0,
+   "valor_total_cop": 73568.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SACAPUNTA CON DEPOSITO DOBLE CUADRADO UC-109",
+   "cantidad": 32,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 85184.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA CARTA ACUARELA COSIDA (cosida en papel textura)",
+   "cantidad": 32,
+   "valor_unit_cop": 26620.0,
+   "valor_total_cop": 851840.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ALFILER TRITON 50g",
+   "cantidad": 31,
+   "valor_unit_cop": 2541.0,
+   "valor_total_cop": 78771.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD 12X22cm",
+   "cantidad": 30,
+   "valor_unit_cop": 544.5,
+   "valor_total_cop": 16335.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MICROPUNTA PELIKAN 157",
+   "cantidad": 30,
+   "valor_unit_cop": 1573.0,
+   "valor_total_cop": 47190.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON MAULE 70X100cm",
+   "cantidad": 30,
+   "valor_unit_cop": 2299.0,
+   "valor_total_cop": 68970.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA REGALO METALIZADA (S)",
+   "cantidad": 29,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 70180.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD 10.5X24cm",
+   "cantidad": 29,
+   "valor_unit_cop": 605.0,
+   "valor_total_cop": 17545.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON INDUSTRIAL 1.5mm (1/8)",
+   "cantidad": 29,
+   "valor_unit_cop": 726.0,
+   "valor_total_cop": 21054.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGANTE EN BARRA TRITON 21g",
+   "cantidad": 29,
+   "valor_unit_cop": 2541.0,
+   "valor_total_cop": 73689.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL SEDA X 20",
+   "cantidad": 28,
+   "valor_unit_cop": 3388.0,
+   "valor_total_cop": 94864.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 24x20 MAX FUERTE",
+   "cantidad": 28,
+   "valor_unit_cop": 2916.1,
+   "valor_total_cop": 81651.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDERINES HALLOWEN",
+   "cantidad": 28,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 152460.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA DE BOLSILLO PEQUEÑA DE-0081",
+   "cantidad": 27,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 81675.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA NATILLERA",
+   "cantidad": 27,
+   "valor_unit_cop": 423.5,
+   "valor_total_cop": 11435.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPAS ESTÁNDAR MARFIL X1000 GALVANIZADA",
+   "cantidad": 27,
+   "valor_unit_cop": 1149.5,
+   "valor_total_cop": 31037.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA CON OBSEQUIO GEL ANTIBACTERIAL",
+   "cantidad": 27,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 147015.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO TE QUEREMOS MUCHO",
+   "cantidad": 27,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 65340.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK PINARES ROTULASO 50X35",
+   "cantidad": 27,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 147015.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA COLGANTE PLASTICA GIPAO",
+   "cantidad": 26,
+   "valor_unit_cop": 7986.0,
+   "valor_total_cop": 207636.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PORTAMINAS 0.5 PELIKAN TINKY",
+   "cantidad": 26,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 103818.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA MIRELLADA OPALINA 1/2 CARTA (puntos)",
+   "cantidad": 26,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 346060.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIJERA GIPAO 6.5\" GP-165",
+   "cantidad": 25,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 75625.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LAPIZ MIRADO # 2",
+   "cantidad": 25,
+   "valor_unit_cop": 907.5,
+   "valor_total_cop": 22688.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO CON CARIÑO",
+   "cantidad": 25,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 60500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PINCHO TODA OCASIÓN",
+   "cantidad": 25,
+   "valor_unit_cop": 1573.0,
+   "valor_total_cop": 39325.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA DE BROCHE CARTA GIPAO",
+   "cantidad": 24,
+   "valor_unit_cop": 1808.95,
+   "valor_total_cop": 43415.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA DE BROCHE OFICIO GIPAO",
+   "cantidad": 24,
+   "valor_unit_cop": 2117.5,
+   "valor_total_cop": 50820.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIJERA GIPAO 7\" GP-167",
+   "cantidad": 24,
+   "valor_unit_cop": 3267.0,
+   "valor_total_cop": 78408.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CORRECTOR OFFI-ESCO EN CINTA 6mt OE-260",
+   "cantidad": 24,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 58080.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CORRECTOR OFFI-ESCO EN LAPIZ OE-251",
+   "cantidad": 24,
+   "valor_unit_cop": 1391.5,
+   "valor_total_cop": 33396.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ADHESIVO CARTA CD",
+   "cantidad": 23,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 91839.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA A4 MULTIPAPEL 36hojas",
+   "cantidad": 23,
+   "valor_unit_cop": 44770.0,
+   "valor_total_cop": 1029710.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL ACUARELA 70X100",
+   "cantidad": 23,
+   "valor_unit_cop": 9075.0,
+   "valor_total_cop": 208725.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTULINA DALI 1/8",
+   "cantidad": 22,
+   "valor_unit_cop": 5082.0,
+   "valor_total_cop": 111804.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK BASE 30 ARGOLLADO",
+   "cantidad": 22,
+   "valor_unit_cop": 7260.0,
+   "valor_total_cop": 159720.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PARA BITACORA (1/8)",
+   "cantidad": 21,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 45738.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "AZUL IRIS PAQUETE X 48hojas",
+   "cantidad": 21,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 127050.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BORRADOR NATA 612",
+   "cantidad": 21,
+   "valor_unit_cop": 338.8,
+   "valor_total_cop": 7115.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "HUELLERO PEQUEÑO GIPAO GP-133",
+   "cantidad": 21,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 101640.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PINCEL AH ROYAL ARTISTICO X6",
+   "cantidad": 20,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 72600.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA CARTON LEGAJADORA OFICIO",
+   "cantidad": 20,
+   "valor_unit_cop": 605.0,
+   "valor_total_cop": 12100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA BITACORA PINARES 50X35",
+   "cantidad": 20,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 72600.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SACAPUNTAS METALICO IMPORTADO A1002",
+   "cantidad": 19,
+   "valor_unit_cop": 314.6,
+   "valor_total_cop": 5977.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SILICONA LIQUIDA MAX FUERTE 30ml",
+   "cantidad": 19,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 45980.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPA ESTÁNDAR MARFIL X5000 GALVANIZADA",
+   "cantidad": 18,
+   "valor_unit_cop": 4598.0,
+   "valor_total_cop": 82764.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA LEGAJADORA PLASTICA OFICIO GIPAO GP-125",
+   "cantidad": 18,
+   "valor_unit_cop": 3206.5,
+   "valor_total_cop": 57717.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA TRANSPARENTE 12x20 (MANILLA) MAX FUETE",
+   "cantidad": 17,
+   "valor_unit_cop": 5808.0,
+   "valor_total_cop": 98736.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGANTE EN BARRA GIPAO 40 g GP-420",
+   "cantidad": 17,
+   "valor_unit_cop": 4089.8,
+   "valor_total_cop": 69527.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO DE MADERA MINI X 12",
+   "cantidad": 16,
+   "valor_unit_cop": 2964.5,
+   "valor_total_cop": 47432.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REPUESTO CUCHILLA BISTURI PEQUEÑO",
+   "cantidad": 15,
+   "valor_unit_cop": 1452.0,
+   "valor_total_cop": 21780.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDA DE CAUCHO 1/4 SILICONADA",
+   "cantidad": 15,
+   "valor_unit_cop": 26620.0,
+   "valor_total_cop": 399300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "COLOR NEW ELITE X12 CORTO",
+   "cantidad": 15,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 36300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VINILO RAPID 125g",
+   "cantidad": 15,
+   "valor_unit_cop": 3194.4,
+   "valor_total_cop": 47916.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO FDIA DE LA MUJER",
+   "cantidad": 15,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 36300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TABLA DE APOYO A4 ETERNA",
+   "cantidad": 14,
+   "valor_unit_cop": 6655.0,
+   "valor_total_cop": 93170.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 48X20 MAX FUERTE",
+   "cantidad": 14,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 67760.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLSA DE REGALO KRAF (M)",
+   "cantidad": 13,
+   "valor_unit_cop": 1331.0,
+   "valor_total_cop": 17303.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA LEGAJADORA CON RESORTE OFICIO GIPAO",
+   "cantidad": 13,
+   "valor_unit_cop": 3751.0,
+   "valor_total_cop": 48763.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BISTURI GRANDE IMPORTADO",
+   "cantidad": 13,
+   "valor_unit_cop": 7260.0,
+   "valor_total_cop": 94380.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REGLA RIGIDA GIPAO 30cm",
+   "cantidad": 13,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 28314.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGANTE LIQUIDO SIPEGA 40g",
+   "cantidad": 13,
+   "valor_unit_cop": 822.8,
+   "valor_total_cop": 10696.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CLIP ESTÁNDAR TRITON",
+   "cantidad": 13,
+   "valor_unit_cop": 937.75,
+   "valor_total_cop": 12191.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REGLA FLEXIBLE GIPAO 30cm",
+   "cantidad": 12,
+   "valor_unit_cop": 2359.5,
+   "valor_total_cop": 28314.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPADORA GIPAO MEDIANA GP-206",
+   "cantidad": 12,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 130680.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL PERGAMINO 1/8",
+   "cantidad": 12,
+   "valor_unit_cop": 726.0,
+   "valor_total_cop": 8712.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA CIERRE CARTA GIPAO",
+   "cantidad": 12,
+   "valor_unit_cop": 2202.2,
+   "valor_total_cop": 26426.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA CIERRE OFICIO GIPAO|",
+   "cantidad": 12,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 29040.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA LEGAJADORA PLASTICA CARTA GIPAO GP-123",
+   "cantidad": 12,
+   "valor_unit_cop": 2964.5,
+   "valor_total_cop": 35574.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MOÑO FACIL PEQUEÑO X10",
+   "cantidad": 12,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 50820.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA CARTA ACUARELA ARGOLLADA",
+   "cantidad": 12,
+   "valor_unit_cop": 38720.0,
+   "valor_total_cop": 464640.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE IRIS LORD 16x22",
+   "cantidad": 11,
+   "valor_unit_cop": 968.0,
+   "valor_total_cop": 10648.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "NUMERADOR 8 DIGITOS",
+   "cantidad": 11,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 146410.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PORTABOLIGRAFO REDONDO METALICO",
+   "cantidad": 11,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 119790.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAD MOUSE GEL FINO GAR OZ",
+   "cantidad": 11,
+   "valor_unit_cop": 15730.0,
+   "valor_total_cop": 173030.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PASTA PAR AALBUM 1/4 ESTAMPADA",
+   "cantidad": 11,
+   "valor_unit_cop": 3872.0,
+   "valor_total_cop": 42592.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRO DE ACTAS 100 FOLIOS S/abc",
+   "cantidad": 11,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 146410.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO FELIZ DIA DE LA MADRE",
+   "cantidad": 11,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 26620.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL BOND BLANCO",
+   "cantidad": 11,
+   "valor_unit_cop": 496.1,
+   "valor_total_cop": 5457.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REPUESTO CUCHILLA BISTURI GRANDE",
+   "cantidad": 10,
+   "valor_unit_cop": 1536.7,
+   "valor_total_cop": 15367.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LAPIZ MIRADO ROJO COLORCHECK",
+   "cantidad": 10,
+   "valor_unit_cop": 1179.75,
+   "valor_total_cop": 11798.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "RESALTADOR SHARPIE GRUESO",
+   "cantidad": 10,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 30250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VINILO RAPID 30g",
+   "cantidad": 10,
+   "valor_unit_cop": 913.55,
+   "valor_total_cop": 9136.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA NOTAS 1/2 CARTA PASTA NEGRA",
+   "cantidad": 10,
+   "valor_unit_cop": 2783.0,
+   "valor_total_cop": 27830.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TALONARIO DE RIFAS BOND PEQUEÑO",
+   "cantidad": 10,
+   "valor_unit_cop": 1161.6,
+   "valor_total_cop": 11616.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGALOCA INFINITA",
+   "cantidad": 10,
+   "valor_unit_cop": 1089.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA CARTA HOJA NEGRA",
+   "cantidad": 10,
+   "valor_unit_cop": 21780.0,
+   "valor_total_cop": 217800.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA 1/8 BOND",
+   "cantidad": 10,
+   "valor_unit_cop": 12100.0,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIJERA GIPAO 7.5\" GP-195",
+   "cantidad": 9,
+   "valor_unit_cop": 3872.0,
+   "valor_total_cop": 34848.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MARCADOR CHEQUEADOR DE BILLETES",
+   "cantidad": 9,
+   "valor_unit_cop": 6655.0,
+   "valor_total_cop": 59895.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GEL ANTIBACTERIAL 30g HAPPY",
+   "cantidad": 9,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 23958.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ROLLO TIQUETIADORA AMARILLO",
+   "cantidad": 9,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 21780.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SILICONA LIQUIDA GIPAO 500ml",
+   "cantidad": 9,
+   "valor_unit_cop": 15125.0,
+   "valor_total_cop": 136125.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK MANTEQUILLA 1/8",
+   "cantidad": 9,
+   "valor_unit_cop": 5434.11,
+   "valor_total_cop": 48907.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO RECTANGULAR PEQUEÑA PASTA DURA",
+   "cantidad": 8,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 106480.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MINA PARA PORTAMINAS 0.5 FABER-CASTELL",
+   "cantidad": 8,
+   "valor_unit_cop": 1488.3,
+   "valor_total_cop": 11906.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CORRECTOR OFIMARK TIPO BARNIZ",
+   "cantidad": 8,
+   "valor_unit_cop": 3388.0,
+   "valor_total_cop": 27104.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TUBO MIRELLA",
+   "cantidad": 8,
+   "valor_unit_cop": 350.9,
+   "valor_total_cop": 2807.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "NUMERADOR 6 DIGITOS",
+   "cantidad": 8,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 43560.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPADORA GIPAO PEQUEÑA GP-200",
+   "cantidad": 8,
+   "valor_unit_cop": 14520.0,
+   "valor_total_cop": 116160.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA DOBLE FAZ 3/4 900g",
+   "cantidad": 8,
+   "valor_unit_cop": 3327.5,
+   "valor_total_cop": 26620.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARTON PERGAMINO 1/8",
+   "cantidad": 8,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 29040.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA 1/8 OPALINA",
+   "cantidad": 8,
+   "valor_unit_cop": 26620.0,
+   "valor_total_cop": 212960.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIJERA GIPAO 6\" GP-166",
+   "cantidad": 7,
+   "valor_unit_cop": 2238.5,
+   "valor_total_cop": 15670.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIJERA GIPAO 8\" GP-216",
+   "cantidad": 7,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 33880.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LUPA CAJA VERDE 75mm",
+   "cantidad": 7,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 27951.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CHINCHON PLASTICO GIPAO CAJA ACRILICA GP-33",
+   "cantidad": 7,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 33880.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "UÑA SACAGRAPAS HOMESING",
+   "cantidad": 7,
+   "valor_unit_cop": 3388.0,
+   "valor_total_cop": 23716.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 12X20 MAX FUERTE",
+   "cantidad": 7,
+   "valor_unit_cop": 1464.1,
+   "valor_total_cop": 10249.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REGLA METALICA 50cm",
+   "cantidad": 7,
+   "valor_unit_cop": 3388.0,
+   "valor_total_cop": 23716.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDERIN METALIZADO FELIZ CUMPLEAÑOS",
+   "cantidad": 7,
+   "valor_unit_cop": 8470.0,
+   "valor_total_cop": 59290.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SOBRE METALIZADO ESQUELA",
+   "cantidad": 7,
+   "valor_unit_cop": 2299.0,
+   "valor_total_cop": 16093.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAFÉ IRIS PAQUETE X 20hojas",
+   "cantidad": 6,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 18150.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TABLA DE APOYO CON COMPARTIMIENTO BARAN",
+   "cantidad": 6,
+   "valor_unit_cop": 35090.0,
+   "valor_total_cop": 210540.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA DE BROCHE TIPO MALETIN OFICIO",
+   "cantidad": 6,
+   "valor_unit_cop": 7623.0,
+   "valor_total_cop": 45738.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA TIPO CATALOOGO OFICIO",
+   "cantidad": 6,
+   "valor_unit_cop": 10285.0,
+   "valor_total_cop": 61710.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REGLA METALICA 30cm AH ROYAL",
+   "cantidad": 6,
+   "valor_unit_cop": 1813.79,
+   "valor_total_cop": 10883.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDA DE CAUCHO COLORES 1/4",
+   "cantidad": 6,
+   "valor_unit_cop": 11253.0,
+   "valor_total_cop": 67518.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLIGRAFO OFFI-ESCO 0.7 BORRABLE RETRACTIL OE-025",
+   "cantidad": 6,
+   "valor_unit_cop": 847.0,
+   "valor_total_cop": 5082.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MINA PARA BOLIGRAFO MEDIUM",
+   "cantidad": 6,
+   "valor_unit_cop": 3872.0,
+   "valor_total_cop": 23232.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CALCULADORA KADIO 12DIGITOS GRANDE",
+   "cantidad": 6,
+   "valor_unit_cop": 10587.5,
+   "valor_total_cop": 63525.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SILICONA LIQUIDA MAX FUERTE 100ml",
+   "cantidad": 6,
+   "valor_unit_cop": 6292.0,
+   "valor_total_cop": 37752.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TACO ADHESIVO X5 MINI COLORES SURTIDO GIPAO X400",
+   "cantidad": 6,
+   "valor_unit_cop": 6655.0,
+   "valor_total_cop": 39930.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CLIP JUMBO COLORES",
+   "cantidad": 6,
+   "valor_unit_cop": 22990.0,
+   "valor_total_cop": 137940.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA EMBALAJE MARRON OFIMARK 48X20",
+   "cantidad": 6,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 32670.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL FOTOGRAFICO 230g 20hojas",
+   "cantidad": 6,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 65340.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL FOTOGRAFICO 135g 20hojas ADHESIVO",
+   "cantidad": 6,
+   "valor_unit_cop": 13915.0,
+   "valor_total_cop": 83490.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL FOTOGRAFICO 160g 20hojas",
+   "cantidad": 6,
+   "valor_unit_cop": 10285.0,
+   "valor_total_cop": 61710.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA ARCHIVADOR 13 BOLSILLOS CARTA KRACH",
+   "cantidad": 6,
+   "valor_unit_cop": 30855.0,
+   "valor_total_cop": 185130.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA BISEL PEQUEÑO CARTA OFIMARK",
+   "cantidad": 6,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 25410.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #5",
+   "cantidad": 6,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #6",
+   "cantidad": 6,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO RECUPERATE PRONTO",
+   "cantidad": 6,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 14520.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO CILINDRO GRANDE",
+   "cantidad": 5,
+   "valor_unit_cop": 19360.0,
+   "valor_total_cop": 96800.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDA DE CAUCHO COLORES 50g",
+   "cantidad": 5,
+   "valor_unit_cop": 2904.0,
+   "valor_total_cop": 14520.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA FACIL AZOR PEQUEÑO",
+   "cantidad": 5,
+   "valor_unit_cop": 2662.0,
+   "valor_total_cop": 13310.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BISTURI X-ACTO GIPAO|",
+   "cantidad": 5,
+   "valor_unit_cop": 7139.0,
+   "valor_total_cop": 35695.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "DISPENSADOR DE CINTA GARNDE GIPAO GP-506",
+   "cantidad": 5,
+   "valor_unit_cop": 30250.0,
+   "valor_total_cop": 151250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGANTE LIQUIDO SIPEGA 250g",
+   "cantidad": 5,
+   "valor_unit_cop": 3872.0,
+   "valor_total_cop": 19360.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TALONARIO DE REMISION",
+   "cantidad": 5,
+   "valor_unit_cop": 4598.0,
+   "valor_total_cop": 22990.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ALMOHADILLA CON TINTA PARA SELLOS ETERNA",
+   "cantidad": 5,
+   "valor_unit_cop": 4719.0,
+   "valor_total_cop": 23595.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PLASTI FLECHAS 25mm CAJA X 5000",
+   "cantidad": 5,
+   "valor_unit_cop": 30250.0,
+   "valor_total_cop": 151250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "ALFILER CABEZA PLASTICA",
+   "cantidad": 5,
+   "valor_unit_cop": 7260.0,
+   "valor_total_cop": 36300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL FOTOGRAFICO 210g 20hojas",
+   "cantidad": 5,
+   "valor_unit_cop": 13310.0,
+   "valor_total_cop": 66550.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA ARCHIVADOR 13 BOLSILLOS OFICIO",
+   "cantidad": 5,
+   "valor_unit_cop": 36300.0,
+   "valor_total_cop": 181500.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CORTINA METALIZADA",
+   "cantidad": 5,
+   "valor_unit_cop": 4477.0,
+   "valor_total_cop": 22385.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #3",
+   "cantidad": 5,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #7",
+   "cantidad": 5,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #9",
+   "cantidad": 5,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 10890.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA PINARES 50X35",
+   "cantidad": 5,
+   "valor_unit_cop": 24200.0,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA CARTA DORADA BOND",
+   "cantidad": 5,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 54450.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PAPEL PROPALCOTE 70X100",
+   "cantidad": 5,
+   "valor_unit_cop": 1210.0,
+   "valor_total_cop": 6050.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO RECTANGULAR 15X54 PASTA DURA",
+   "cantidad": 4,
+   "valor_unit_cop": 18150.0,
+   "valor_total_cop": 72600.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MINA PARA PORTAMINAS 0.7 FABER-CASTELL",
+   "cantidad": 4,
+   "valor_unit_cop": 1488.3,
+   "valor_total_cop": 5953.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "REVISTERO MALLA METALICO",
+   "cantidad": 4,
+   "valor_unit_cop": 9196.0,
+   "valor_total_cop": 36784.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TEMPERA PARCHESITO X6 COLORES BASICOS",
+   "cantidad": 4,
+   "valor_unit_cop": 5203.0,
+   "valor_total_cop": 20812.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDERIN SEPARADOR X5",
+   "cantidad": 4,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 12100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TALONARIO LETRA DE CAMBIO",
+   "cantidad": 4,
+   "valor_unit_cop": 2698.3,
+   "valor_total_cop": 10793.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FLECHADORA PLASTICA TACHER II",
+   "cantidad": 4,
+   "valor_unit_cop": 91839.0,
+   "valor_total_cop": 367356.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPADORA GIPAO GRANDE GP-935",
+   "cantidad": 4,
+   "valor_unit_cop": 33880.0,
+   "valor_total_cop": 135520.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CLIP JUMBO TRITON",
+   "cantidad": 4,
+   "valor_unit_cop": 2758.8,
+   "valor_total_cop": 11035.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CLIP MARIPOSA OFIMARK",
+   "cantidad": 4,
+   "valor_unit_cop": 3267.0,
+   "valor_total_cop": 13068.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA ENMASCARAR 3\"X20 MAX FUERTE",
+   "cantidad": 4,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 15972.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LIBRETA ALTAMIRA 1/4 VERTICAL",
+   "cantidad": 4,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 12100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK ARTEMANIA",
+   "cantidad": 4,
+   "valor_unit_cop": 9680.0,
+   "valor_total_cop": 38720.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA MENOR GIPAO 12\"",
+   "cantidad": 4,
+   "valor_unit_cop": 85910.0,
+   "valor_total_cop": 343640.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FOLDER CARTA ESTAMPADO 0.5",
+   "cantidad": 4,
+   "valor_unit_cop": 11858.0,
+   "valor_total_cop": 47432.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #4",
+   "cantidad": 4,
+   "valor_unit_cop": 2178.0,
+   "valor_total_cop": 8712.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CHUZO PARA VALE",
+   "cantidad": 3,
+   "valor_unit_cop": 5505.5,
+   "valor_total_cop": 16517.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LUPA CAJA VERDE 60mm",
+   "cantidad": 3,
+   "valor_unit_cop": 2541.0,
+   "valor_total_cop": 7623.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDA DE CAUCHO 500g SILICONADA",
+   "cantidad": 3,
+   "valor_unit_cop": 30613.0,
+   "valor_total_cop": 91839.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TEMPERA PARCHESITOX6 PASTEL",
+   "cantidad": 3,
+   "valor_unit_cop": 9559.0,
+   "valor_total_cop": 28677.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOLIGRAFO GIPAO GP-70",
+   "cantidad": 3,
+   "valor_unit_cop": 786.5,
+   "valor_total_cop": 2360.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "DISPENSADOR DE CINTA MANUAL GP-505",
+   "cantidad": 3,
+   "valor_unit_cop": 18150.0,
+   "valor_total_cop": 54450.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PERFORADORA 2 HUECOS MEDIANA GP-05",
+   "cantidad": 3,
+   "valor_unit_cop": 10043.0,
+   "valor_total_cop": 30129.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VINILO PARCHESITOS 125g",
+   "cantidad": 3,
+   "valor_unit_cop": 3194.4,
+   "valor_total_cop": 9583.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "VINILO PARCHESITOS 30g",
+   "cantidad": 3,
+   "valor_unit_cop": 913.55,
+   "valor_total_cop": 2741.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PEGANTE LIQUIDO SIPEGA 125g",
+   "cantidad": 3,
+   "valor_unit_cop": 2238.5,
+   "valor_total_cop": 6716.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TINTA PARA SELLOS PELIKAN",
+   "cantidad": 3,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 14520.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TACO ADHESIVO X 5 COLORES SURTIDO 76*76 GIPAO X320",
+   "cantidad": 3,
+   "valor_unit_cop": 6655.0,
+   "valor_total_cop": 19965.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GRAPADORA MINI EAGLE",
+   "cantidad": 3,
+   "valor_unit_cop": 3811.5,
+   "valor_total_cop": 11435.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BANDEJA MALLA 2 PUESTOS",
+   "cantidad": 3,
+   "valor_unit_cop": 26620.0,
+   "valor_total_cop": 79860.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA CIERRE 1/2 CARTA",
+   "cantidad": 3,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 11979.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #1",
+   "cantidad": 3,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 7260.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #2",
+   "cantidad": 3,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 7260.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GLOBO METILIZADO #8",
+   "cantidad": 3,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 7260.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BITACORA OFICIO BOND",
+   "cantidad": 3,
+   "valor_unit_cop": 9075.0,
+   "valor_total_cop": 27225.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "RESALTADOR PASTEL X6 GIPAO",
+   "cantidad": 2,
+   "valor_unit_cop": 7623.0,
+   "valor_total_cop": 15246.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GEL ANTIBACTERIAL 50g",
+   "cantidad": 2,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 4840.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA FACIL AZOR GRANDE",
+   "cantidad": 2,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 7260.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PORTAMINAS 0.5 FIESTA",
+   "cantidad": 2,
+   "valor_unit_cop": 3993.0,
+   "valor_total_cop": 7986.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CALCULADORA KADIO 8DIGITOS PEQUEÑA",
+   "cantidad": 2,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 12100.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PISTOLA DE SILICONA GRANDE GIPAO GP-302",
+   "cantidad": 2,
+   "valor_unit_cop": 14520.0,
+   "valor_total_cop": 29040.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PERFORADORA 2 HUECOS PEQUEÑA GIPAO GP-310",
+   "cantidad": 2,
+   "valor_unit_cop": 15125.0,
+   "valor_total_cop": 30250.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PERFORADORA 1 HUECO GIPAO GP- 309",
+   "cantidad": 2,
+   "valor_unit_cop": 3569.5,
+   "valor_total_cop": 7139.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CUENTA DE COBRO MULTIFORMA MEDIANO AUTOCOPIANTE ORI",
+   "cantidad": 2,
+   "valor_unit_cop": 3267.0,
+   "valor_total_cop": 6534.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO LOTERO DINGLI 1\"",
+   "cantidad": 2,
+   "valor_unit_cop": 2904.0,
+   "valor_total_cop": 5808.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO LOTERO DINGLI 11/4\"",
+   "cantidad": 2,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 9680.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CINTA INVISIBLE CON DISPENSADOR OFIMARK",
+   "cantidad": 2,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 9680.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BLOCK NORMA CONSTRUCCION",
+   "cantidad": 2,
+   "valor_unit_cop": 10890.0,
+   "valor_total_cop": 21780.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA MENOR 10\"",
+   "cantidad": 2,
+   "valor_unit_cop": 91960.0,
+   "valor_total_cop": 183920.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA LEGAJADORA PLASTICA CARTA OFIMARK",
+   "cantidad": 2,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 8470.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MOÑO FACIL MEDIANO X10",
+   "cantidad": 2,
+   "valor_unit_cop": 2843.5,
+   "valor_total_cop": 5687.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO FELIZ DIA",
+   "cantidad": 2,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 4840.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "LETRERO MIRELLADO TE AMO",
+   "cantidad": 2,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 4840.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CONFETI",
+   "cantidad": 2,
+   "valor_unit_cop": 3509.0,
+   "valor_total_cop": 7018.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAFÉ IRIS PAQUETE X 48hojas",
+   "cantidad": 1,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 6050.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO CUBO 15X15",
+   "cantidad": 1,
+   "valor_unit_cop": 2057.0,
+   "valor_total_cop": 2057.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO RECTANGULAR 25X35",
+   "cantidad": 1,
+   "valor_unit_cop": 20570.0,
+   "valor_total_cop": 20570.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO CILINDRO GIGANTE",
+   "cantidad": 1,
+   "valor_unit_cop": 36300.0,
+   "valor_total_cop": 36300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO RECTANGULAR 20X60",
+   "cantidad": 1,
+   "valor_unit_cop": 25410.0,
+   "valor_total_cop": 25410.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CAJA REGALO RECTANGULAR 55X10",
+   "cantidad": 1,
+   "valor_unit_cop": 26620.0,
+   "valor_total_cop": 26620.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SACAPUNTAS METALICO DE MESA",
+   "cantidad": 1,
+   "valor_unit_cop": 50820.0,
+   "valor_total_cop": 50820.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "MOUSE INALAMBRICO TB-220",
+   "cantidad": 1,
+   "valor_unit_cop": 48400.0,
+   "valor_total_cop": 48400.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CRONOMETROI MAX ELECTRONICS",
+   "cantidad": 1,
+   "valor_unit_cop": 27830.0,
+   "valor_total_cop": 27830.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "COLOR OFIMARK X 24",
+   "cantidad": 1,
+   "valor_unit_cop": 11495.0,
+   "valor_total_cop": 11495.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "DISPENSADOR DE CINTA GARNDE OFIMARK",
+   "cantidad": 1,
+   "valor_unit_cop": 20570.0,
+   "valor_total_cop": 20570.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "PERFORADORA 3 HUECOS GP-890",
+   "cantidad": 1,
+   "valor_unit_cop": 36300.0,
+   "valor_total_cop": 36300.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "FLECHADORA PLASTICA STD",
+   "cantidad": 1,
+   "valor_unit_cop": 31339.0,
+   "valor_total_cop": 31339.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "TIQUETEADORA LABELLER M-001",
+   "cantidad": 1,
+   "valor_unit_cop": 84700.0,
+   "valor_total_cop": 84700.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "GANCHO LOTERO DINGLI 2\"",
+   "cantidad": 1,
+   "valor_unit_cop": 10598.0,
+   "valor_total_cop": 10598.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "CARPETA PRIMAVERA LIGA CANAL ESTAMPADA",
+   "cantidad": 1,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 4840.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOMBA R12 X50",
+   "cantidad": 1,
+   "valor_unit_cop": 7502.0,
+   "valor_total_cop": 7502.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "SERPENTINA X3",
+   "cantidad": 1,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 1815.0
+  },
+  {
+   "seccion": "INVENTARIO BÚHO / HOGAR DEL NIÑO",
+   "nombre": "BOUQUET 5 PIEZAS",
+   "cantidad": 1,
+   "valor_unit_cop": 9680.0,
+   "valor_total_cop": 9680.0
+  },
+  {
+   "seccion": "EQUIPOS",
+   "nombre": "LAMINADORA",
+   "cantidad": 1,
+   "valor_unit_cop": 550000.0,
+   "valor_total_cop": 550000.0
+  },
+  {
+   "seccion": "EQUIPOS",
+   "nombre": "DUPLICADORA Y REPUESTO MASTER",
+   "cantidad": 1,
+   "valor_unit_cop": 11000000.0,
+   "valor_total_cop": 11000000.0
+  },
+  {
+   "seccion": "EQUIPOS",
+   "nombre": "TINTA IMPRESORA (DUPLICADORA)",
+   "cantidad": 3,
+   "valor_unit_cop": 200000.0,
+   "valor_total_cop": 600000.0
+  },
+  {
+   "seccion": "EQUIPOS",
+   "nombre": "CERRADORA MANUAL",
+   "cantidad": 1,
+   "valor_unit_cop": 880000.0,
+   "valor_total_cop": 880000.0
+  },
+  {
+   "seccion": "EQUIPOS",
+   "nombre": "SANDUCHADORA INDUSTRIAL",
+   "cantidad": 1,
+   "valor_unit_cop": 11000000.0,
+   "valor_total_cop": 11000000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "PLANOTECA",
+   "cantidad": 2,
+   "valor_unit_cop": 1570000.0,
+   "valor_total_cop": 3140000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "ESTANTERIA PAPEL",
+   "cantidad": 7,
+   "valor_unit_cop": 193190.0,
+   "valor_total_cop": 1352330.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "ESTANTERIA INDUSTRIAL",
+   "cantidad": 7,
+   "valor_unit_cop": 1200000.0,
+   "valor_total_cop": 8400000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "MUEBLE ORGANIZADOR EN MADERA",
+   "cantidad": 3,
+   "valor_unit_cop": 200000.0,
+   "valor_total_cop": 600000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "MESA MADERA GRANDE",
+   "cantidad": 1,
+   "valor_unit_cop": 1089000.0,
+   "valor_total_cop": 1089000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "VITRINA EN VIDRIO",
+   "cantidad": 4,
+   "valor_unit_cop": 1100000.0,
+   "valor_total_cop": 4400000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "FOTOCOPIADORA A MANTENIMIENTO",
+   "cantidad": 1,
+   "valor_unit_cop": 330000.0,
+   "valor_total_cop": 330000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "ESTANTERIA PARA PAPEL",
+   "cantidad": 1,
+   "valor_unit_cop": 1100000.0,
+   "valor_total_cop": 1100000.0
+  },
+  {
+   "seccion": "MOBILIARIO",
+   "nombre": "MESA DE ACERO INOXIDABLE",
+   "cantidad": 1,
+   "valor_unit_cop": 1100000.0,
+   "valor_total_cop": 1100000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0028-04",
+   "cantidad": 1029,
+   "valor_unit_cop": 1452.0,
+   "valor_total_cop": 1494108.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0050-04",
+   "cantidad": 452,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 1093840.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0046-04",
+   "cantidad": 232,
+   "valor_unit_cop": 1210.0,
+   "valor_total_cop": 280720.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0069-04",
+   "cantidad": 232,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 1122880.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0059-04",
+   "cantidad": 224,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 813120.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0039-04",
+   "cantidad": 213,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 515460.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0051-04",
+   "cantidad": 200,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1210000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0048-04",
+   "cantidad": 197,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 595925.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0026-04",
+   "cantidad": 195,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 1179750.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0025-04",
+   "cantidad": 194,
+   "valor_unit_cop": 4840.0,
+   "valor_total_cop": 938960.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0013-04",
+   "cantidad": 192,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 580800.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0055-04",
+   "cantidad": 187,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 452540.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0053-04",
+   "cantidad": 185,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 783475.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0032-04",
+   "cantidad": 180,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 326700.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0066-04",
+   "cantidad": 163,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 493075.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0027-04",
+   "cantidad": 158,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 860310.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0023-03",
+   "cantidad": 150,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 907500.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0017-04",
+   "cantidad": 146,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 618310.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0020-02",
+   "cantidad": 144,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 871200.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0001-04",
+   "cantidad": 137,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 414425.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0022-04",
+   "cantidad": 126,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 381150.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0038-04",
+   "cantidad": 123,
+   "valor_unit_cop": 1452.0,
+   "valor_total_cop": 178596.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0040-04",
+   "cantidad": 113,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 341825.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0030-04",
+   "cantidad": 112,
+   "valor_unit_cop": 1210.0,
+   "valor_total_cop": 135520.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0060-04",
+   "cantidad": 111,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 268620.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0010-04",
+   "cantidad": 108,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 392040.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "MT-03",
+   "cantidad": 107,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 323675.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0037-04",
+   "cantidad": 104,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 251680.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0041-04",
+   "cantidad": 100,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 423500.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0045-04",
+   "cantidad": 99,
+   "valor_unit_cop": 1452.0,
+   "valor_total_cop": 143748.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0034-04",
+   "cantidad": 97,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 234740.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0013-04",
+   "cantidad": 96,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 290400.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0074-04",
+   "cantidad": 96,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 290400.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0035-04",
+   "cantidad": 95,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 287375.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0063-04",
+   "cantidad": 90,
+   "valor_unit_cop": 605.0,
+   "valor_total_cop": 54450.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0008-04",
+   "cantidad": 89,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 269225.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "001-04",
+   "cantidad": 137,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 414425.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0058-04",
+   "cantidad": 87,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 210540.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0021-04",
+   "cantidad": 85,
+   "valor_unit_cop": 8470.0,
+   "valor_total_cop": 719950.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0016-04",
+   "cantidad": 84,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 254100.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0056-04",
+   "cantidad": 82,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 496100.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0023-04",
+   "cantidad": 80,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 484000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0049-04",
+   "cantidad": 79,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 191180.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0012-04",
+   "cantidad": 77,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 232925.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0047-04",
+   "cantidad": 68,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 164560.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0015-04",
+   "cantidad": 67,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 202675.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0024-04",
+   "cantidad": 64,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 387200.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0036-04",
+   "cantidad": 62,
+   "valor_unit_cop": 1452.0,
+   "valor_total_cop": 90024.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0020-04",
+   "cantidad": 60,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 363000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0071-04",
+   "cantidad": 60,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 363000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0070-04",
+   "cantidad": 57,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 137940.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0062-04",
+   "cantidad": 51,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 215985.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0073-04",
+   "cantidad": 60,
+   "valor_unit_cop": 3630.0,
+   "valor_total_cop": 217800.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0169-04",
+   "cantidad": 46,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 278300.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0018-04",
+   "cantidad": 45,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 245025.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0014-04",
+   "cantidad": 44,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 266200.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0039-04",
+   "cantidad": 42,
+   "valor_unit_cop": 1815.0,
+   "valor_total_cop": 76230.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0052-04",
+   "cantidad": 39,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 235950.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0019-04",
+   "cantidad": 32,
+   "valor_unit_cop": 5445.0,
+   "valor_total_cop": 174240.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0054-04",
+   "cantidad": 31,
+   "valor_unit_cop": 4235.0,
+   "valor_total_cop": 131285.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0061-04",
+   "cantidad": 30,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 90750.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0006-04",
+   "cantidad": 25,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 75625.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0115-04",
+   "cantidad": 24,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 72600.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0045-04",
+   "cantidad": 23,
+   "valor_unit_cop": 3025.0,
+   "valor_total_cop": 69575.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0016-04",
+   "cantidad": 22,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 133100.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0067-04",
+   "cantidad": 20,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0164-04",
+   "cantidad": 20,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 121000.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0072-04",
+   "cantidad": 19,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 114950.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0057-04",
+   "cantidad": 14,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 84700.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0025-04",
+   "cantidad": 10,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 60500.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0089-04",
+   "cantidad": 10,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 60500.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0068-04",
+   "cantidad": 10,
+   "valor_unit_cop": 2420.0,
+   "valor_total_cop": 24200.0
+  },
+  {
+   "seccion": "TARJETERÍA E INVITACIONES — DIFERENTES FORMATOS",
+   "nombre": "0065-04",
+   "cantidad": 6,
+   "valor_unit_cop": 6050.0,
+   "valor_total_cop": 36300.0
+  }
+ ]
+}

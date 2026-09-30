@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Búho Papelería — Dirección A: Feria Kawaii</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito:wght@400;600;800&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --violeta:#230051; --uvas:#781acd; --lavanda:#d5cbee; --lavanda-2:#f2f0f5;
+  --mango:#ff9f1c; --menta:#8ce0c0; --rosa:#ff90bb; --tinta:#393939; --gris:#7b6697;
+  --r:18px; --sombra:0 6px 0 rgba(35,0,81,.14);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Nunito,system-ui,sans-serif;color:var(--violeta);background:var(--lavanda-2);line-height:1.5}
+h1,h2,h3,.display{font-family:"Baloo 2",system-ui,sans-serif;line-height:1.12;letter-spacing:-.01em}
+.mono{font-family:Caveat,cursive}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.mock{background:#230051;color:#fff;font-size:12px;text-align:center;padding:6px 10px;letter-spacing:.04em}
+/* header */
+.top{position:sticky;top:0;z-index:20;background:#fff;border-bottom:3px solid var(--lavanda)}
+.bar{display:flex;align-items:center;gap:18px;padding:12px 0}
+.logo{display:flex;align-items:center;gap:10px;font-family:"Baloo 2";font-weight:800;font-size:24px}
+.logo svg{width:38px;height:38px}
+nav{display:flex;gap:16px;margin-left:auto;font-weight:600}
+nav a{color:var(--violeta);text-decoration:none;padding:6px 10px;border-radius:99px}
+nav a:hover{background:var(--lavanda-2);color:var(--uvas)}
+.btn{font-family:"Baloo 2";font-weight:700;border:0;border-radius:99px;padding:11px 20px;cursor:pointer;font-size:15px}
+.btn-prim{background:var(--uvas);color:#fff;box-shadow:0 4px 0 #4c0f80}
+.btn-prim:hover{transform:translateY(-1px)}
+.btn-sec{background:#fff;color:var(--uvas);border:2px solid var(--uvas)}
+.buscar{flex:0 0 190px;border:2px solid var(--lavanda);border-radius:99px;padding:9px 14px;font-family:Nunito;background:#fff}
+/* hero */
+.hero{background:radial-gradient(circle at 88% 18%,#5530a3 0,#230051 55%);color:#fff;padding:56px 0 64px;position:relative;overflow:hidden}
+.hero h1{font-size:clamp(34px,5vw,58px);font-weight:800;max-width:15ch}
+.hero p{max-width:46ch;margin:14px 0 22px;color:#e6dcff;font-size:17px}
+.hero .mono{color:var(--menta);font-size:26px;display:block;margin-bottom:6px}
+.sticker{position:absolute;right:6%;top:52px;width:150px;height:150px;border-radius:50%;background:var(--mango);color:#230051;display:grid;place-content:center;text-align:center;font-family:"Baloo 2";font-weight:800;transform:rotate(9deg);box-shadow:0 8px 0 rgba(0,0,0,.18)}
+.sticker small{font-weight:600;font-family:Nunito;font-size:11px;display:block}
+/* categorias */
+.cats{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 18px}
+.chip{border:2px solid var(--lavanda);background:#fff;border-radius:99px;padding:8px 15px;font-weight:700;cursor:pointer}
+.chip.on{background:var(--uvas);color:#fff;border-color:var(--uvas)}
+/* grid */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:16px}
+.card{background:#fff;border:2px solid var(--lavanda);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column}
+.card:hover{box-shadow:var(--sombra);transform:translateY(-2px);transition:.15s}
+.foto{aspect-ratio:4/3;display:grid;place-content:center;font-family:"Baloo 2";font-weight:800;font-size:34px;color:#fff}
+.tag{position:absolute;margin:10px;background:#fff;border-radius:99px;padding:3px 10px;font-size:11px;font-weight:800;color:var(--uvas)}
+.card .body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{font-size:16px;font-weight:700}
+.meta{font-size:12px;color:var(--gris);display:flex;gap:8px;flex-wrap:wrap}
+.precio{font-family:"Baloo 2";font-weight:800;font-size:20px}
+.precio small{font-family:Nunito;font-weight:600;font-size:11px;color:var(--gris)}
+.add{margin-top:auto}
+/* proposito + pasos */
+.bloques{display:grid;grid-template-columns:1.1fr .9fr;gap:22px;margin:46px 0}
+.panel{background:#fff;border:3px solid var(--lavanda);border-radius:24px;padding:26px}
+.panel.oliva{background:#e9f7f0;border-color:var(--menta)}
+.pasos{display:grid;gap:14px;margin-top:12px}
+.paso{display:flex;gap:12px;align-items:flex-start}
+.num{flex:0 0 34px;height:34px;border-radius:50%;background:var(--uvas);color:#fff;display:grid;place-content:center;font-family:"Baloo 2";font-weight:800}
+/* footer */
+footer{background:var(--violeta);color:#cfc3ea;margin-top:50px;padding:34px 0}
+footer a{color:#fff;text-decoration:none}
+.fgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:22px}
+/* carrito */
+.cart{position:fixed;right:16px;bottom:16px;background:var(--uvas);color:#fff;border:0;border-radius:99px;padding:14px 22px;font-family:"Baloo 2";font-weight:800;font-size:16px;cursor:pointer;box-shadow:0 6px 0 #4c0f80;z-index:30}
+.drawer{position:fixed;inset:0 0 0 auto;width:min(380px,92vw);background:#fff;transform:translateX(102%);transition:.25s;z-index:40;display:flex;flex-direction:column;border-left:3px solid var(--lavanda)}
+.drawer.open{transform:none}
+.drawer header{display:flex;justify-content:space-between;align-items:center;padding:16px;border-bottom:2px solid var(--lavanda-2)}
+.items{flex:1;overflow:auto;padding:14px;display:grid;gap:10px}
+.it{display:flex;gap:10px;align-items:center;border-bottom:1px dashed var(--lavanda);padding-bottom:8px;font-size:14px}
+.it b{display:block;font-size:14px}
+.drawer footer{border-top:2px solid var(--lavanda-2);padding:16px;display:grid;gap:10px;color:var(--violeta)}
+.pago-off{background:#ececf1;color:#8b8b9b;border-radius:12px;padding:11px;text-align:center;font-weight:700;font-size:13px}
+.wa{background:#25d366;color:#04331a}
+.toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,80px);background:var(--violeta);color:#fff;padding:11px 18px;border-radius:99px;font-weight:700;font-size:14px;opacity:0;transition:.2s;z-index:50}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:860px){nav,.buscar{display:none}.bloques{grid-template-columns:1fr}.sticker{display:none}}
+</style>
+</head>
+<body>
+<div class="mock">MOCKUP DIRECCIÓN A · datos reales del inventario · precios = avalúo, pendientes de PVP</div>
+
+<div class="top"><div class="wrap bar">
+  <div class="logo">
+    <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#781acd"/><circle cx="15" cy="19" r="7" fill="#fff"/><circle cx="33" cy="19" r="7" fill="#fff"/><circle cx="15" cy="19" r="3" fill="#230051"/><circle cx="33" cy="19" r="3" fill="#230051"/><path d="M24 26l6 9-6 4-6-4z" fill="#ff9f1c"/></svg>
+    Búho Papelería
+  </div>
+  <nav>
+    <a href="#catalogo">Papel</a><a href="#catalogo">Blocks</a><a href="#catalogo">Tarjetería</a><a href="#catalogo">Origami</a><a href="#proposito">Fundación</a>
+  </nav>
+  <input class="buscar" placeholder="Buscar en el catálogo…">
+  <button class="btn btn-sec" id="btn-carrito">Carrito · <span id="n">0</span></button>
+</div></div>
+
+<section class="hero"><div class="wrap">
+  <span class="mono">papel, tinta y cosas lindas ✿</span>
+  <h1>Toda la papelería del taller, ahora en línea</h1>
+  <p>Más de 400 referencias en stock: papel, cartulina, blocks, tarjetería, origami y más. Pides por WhatsApp y recoges o te lo llevamos.</p>
+  <button class="btn btn-prim" onclick="document.getElementById('catalogo').scrollIntoView()">Ver catálogo</button>
+  <button class="btn btn-sec" style="margin-left:8px">Pedir por WhatsApp</button>
+  <div class="sticker">200M<small>avalúo del inventario (COP)</small></div>
+</div></section>
+
+<main class="wrap">
+  <div class="cats" id="chips">
+    <button class="chip on" data-c="todos">Todo</button>
+    <button class="chip" data-c="Papel">Papel y cartulina</button>
+    <button class="chip" data-c="Blocks">Blocks y cuadernos</button>
+    <button class="chip" data-c="Tarjetería">Sobres y tarjetería</button>
+    <button class="chip" data-c="Origami">Origami y fiesta</button>
+    <button class="chip" data-c="Archivo">Carpetas y archivo</button>
+  </div>
+
+  <section class="grid" id="catalogo"></section>
+
+  <div class="bloques">
+    <div class="panel oliva" id="proposito">
+      <h2>Hecho en el taller de la Fundación</h2>
+      <p>Cada compra sostiene el taller de <b>Fundación Hogar del Niño</b>: los materiales que ves vienen de donaciones y se transforman en papelería lista para estudiar, crear y regalar.</p>
+      <p class="mono" style="font-size:24px;color:#2c7a5b;margin-top:10px">Tu compra vuelve al taller ↺</p>
+    </div>
+    <div class="panel">
+      <h2>¿Cómo compro?</h2>
+      <div class="pasos">
+        <div class="paso"><div class="num">1</div><div><b>Armá tu pedido</b><br>Agregá al carrito lo que necesites. Sin registro.</div></div>
+        <div class="paso"><div class="num">2</div><div><b>Envialo por WhatsApp</b><br>Te confirmamos stock y total en minutos.</div></div>
+        <div class="paso"><div class="num">3</div><div><b>Recogé o recibí</b><br>Recogida en el taller o entrega a domicilio.</div></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer><div class="wrap fgrid">
+  <div><div class="logo" style="color:#fff">Búho Papelería</div><p style="margin-top:8px">Fundación Hogar del Niño · Papelería solidaria</p></div>
+  <div><b>Contacto</b><p>WhatsApp · Dirección · Horarios<br>(datos por confirmar con el cliente)</p></div>
+  <div><b>Tienda</b><p><a href="#catalogo">Catálogo completo</a><br><a href="#proposito">La fundación</a><br><a href="#">Envíos y entregas</a></p></div>
+  <div><b>Aviso</b><p>Envíos en la ciudad · Pago contra entrega<br>Pago en línea: próximamente</p></div>
+</div></footer>
+
+<button class="cart" id="btn-carrito-2">🛒 Carrito · <span id="n2">0</span></button>
+<aside class="drawer" id="drawer" aria-label="Carrito">
+  <header><b>Tu pedido</b><button class="btn btn-sec" id="cerrar">Cerrar</button></header>
+  <div class="items" id="items"><p style="color:#7b6697">Todavía no agregaste nada.</p></div>
+  <footer>
+    <div style="display:flex;justify-content:space-between"><span>Total estimado</span><b id="total">$ 0</b></div>
+    <button class="btn wa">Enviar pedido por WhatsApp</button>
+    <div class="pago-off">💳 Pagar en línea — próximamente</div>
+  </footer>
+</aside>
+<div class="toast" id="toast">Agregado al pedido</div>
+
+<script>
+const P=[
+ {n:"Tarjeta Lord 12x17",c:"Tarjetería",p:157,d:11900,f:"#781acd"},
+ {n:"Sobre Iris Lord vertical x12",c:"Tarjetería",p:293,d:1804,f:"#5530a3"},
+ {n:"Block Mini Iris",c:"Blocks",p:605,d:1493,f:"#ff9f1c"},
+ {n:"Pasta para bitácora 1/2 carta",c:"Blocks",p:786,d:1300,f:"#8ce0c0"},
+ {n:"Block Origami 14x14",c:"Origami",p:2057,d:994,f:"#ff90bb"},
+ {n:"Caja tapa 11x11 ventana",c:"Origami",p:1331,d:910,f:"#5530a3"},
+ {n:"Papel acuarela 1/8 x10",c:"Papel",p:1815,d:901,f:"#781acd"},
+ {n:"Block Origami 20x20",c:"Origami",p:2420,d:636,f:"#ff9f1c"},
+ {n:"Cartulina fluorescente oficio",c:"Papel",p:387,d:555,f:"#8ce0c0"},
+ {n:"Tarjeta tipo Lord Iris 5x9",c:"Tarjetería",p:2662,d:511,f:"#ff90bb"},
+ {n:"Block Origami 10x10",c:"Origami",p:1694,d:325,f:"#781acd"},
+ {n:"Sobre Iris Lord horizontal x12",c:"Tarjetería",p:293,d:312,f:"#5530a3"}
+];
+const cop=n=>"$ "+n.toLocaleString("es-CO");
+const grid=document.getElementById("catalogo");
+const VACIO='<p style="grid-column:1/-1;padding:26px;background:#fff;border:2px dashed var(--lavanda);border-radius:18px;color:#7b6697">Aún no hay referencias publicadas en esta categoría.</p>';
+function render(cat){
+  const lista=P.filter(p=>cat==="todos"||p.c===cat);
+  if(!lista.length){grid.innerHTML=VACIO;return;}
+  grid.innerHTML=lista.map(p=>`
+   <article class="card">
+     <div class="foto" style="background:${p.f};position:relative">${p.n[0]}<span class="tag">${p.c}</span></div>
+     <div class="body">
+       <h3>${p.n}</h3>
+       <div class="meta"><span>${p.d.toLocaleString("es-CO")} disponibles</span></div>
+       <div class="precio">${cop(p.p)} <small>ref.</small></div>
+       <button class="btn btn-prim add" data-n="${p.n}" data-p="${p.p}">Agregar</button>
+     </div>
+   </article>`).join("");
+}
+render("todos");
+document.getElementById("chips").addEventListener("click",e=>{
+  const b=e.target.closest(".chip"); if(!b)return;
+  document.querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c===b));
+  render(b.dataset.c);
+});
+let carrito=[];
+function pintar(){
+  const items=document.getElementById("items");
+  items.innerHTML=carrito.length?carrito.map(i=>`<div class="it"><div><b>${i.n}</b><span style="color:#7b6697">${cop(i.p)}</span></div><span style="margin-left:auto">x${i.q}</span></div>`).join(""):
+   '<p style="color:#7b6697">Todavía no agregaste nada.</p>';
+  const t=carrito.reduce((a,i)=>a+i.p*i.q,0);
+  document.getElementById("total").textContent=cop(t);
+  const c=carrito.reduce((a,i)=>a+i.q,0);
+  document.getElementById("n").textContent=c; document.getElementById("n2").textContent=c;
+}
+document.body.addEventListener("click",e=>{
+  const a=e.target.closest(".add");
+  if(a){const ex=carrito.find(i=>i.n===a.dataset.n);
+    ex?ex.q++:carrito.push({n:a.dataset.n,p:+a.dataset.p,q:1});
+    pintar();const t=document.getElementById("toast");t.classList.add("show");setTimeout(()=>t.classList.remove("show"),1100);return;}
+  if(e.target.closest("#btn-carrito")||e.target.closest("#btn-carrito-2")){document.getElementById("drawer").classList.add("open");}
+  if(e.target.closest("#cerrar")){document.getElementById("drawer").classList.remove("open");}
+});
+pintar();
+</script>
+</body>
+</html>

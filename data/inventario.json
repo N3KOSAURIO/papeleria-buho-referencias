@@ -1,0 +1,3914 @@
+[
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA 8.5x 12.5 CM",
+  "cantidad": 40300.0,
+  "valor_unit": 90.75,
+  "valor_total": 3657225.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 4X56 cm",
+  "cantidad": 24300.0,
+  "valor_unit": 85.91,
+  "valor_total": 2087613.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 1/2 CARTA",
+  "cantidad": 15300.0,
+  "valor_unit": 173.03,
+  "valor_total": 2647359.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TARJETA LORD 12x17",
+  "cantidad": 11900.0,
+  "valor_unit": 157.3,
+  "valor_total": 1871870.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL BOND 1/8 PARA BITACORA",
+  "cantidad": 11000.0,
+  "valor_unit": 99.22,
+  "valor_total": 1091420.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA 1/2 CARTA",
+  "cantidad": 8300.0,
+  "valor_unit": 145.2,
+  "valor_total": 1205160.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (4X28cm)",
+  "cantidad": 7276.0,
+  "valor_unit": 85.91,
+  "valor_total": 625081.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL IRIS PLIEGO 61X92",
+  "cantidad": 5674.0,
+  "valor_unit": 786.5,
+  "valor_total": 4462601.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 13x10 CM",
+  "cantidad": 4750.0,
+  "valor_unit": 90.75,
+  "valor_total": 431063.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 5X28cm",
+  "cantidad": 4000.0,
+  "valor_unit": 104.06,
+  "valor_total": 416240.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (4X56nm)",
+  "cantidad": 3400.0,
+  "valor_unit": 96.8,
+  "valor_total": 329120.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL SILUETA 70X50",
+  "cantidad": 3100.0,
+  "valor_unit": 242.0,
+  "valor_total": 750200.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (1/2 CARTA)",
+  "cantidad": 2571.0,
+  "valor_unit": 248.05,
+  "valor_total": 637737.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA IRIS 70X100cm",
+  "cantidad": 2515.0,
+  "valor_unit": 3025.0,
+  "valor_total": 7607875.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "RESMILLA CARTA BLANCA Y CREMA",
+  "cantidad": 2300.0,
+  "valor_unit": 121.0,
+  "valor_total": 278300.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA DE COBRO PEQUEÑA PERIODICO",
+  "cantidad": 2164.0,
+  "valor_unit": 665.5,
+  "valor_total": 1440142.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 14X43.5 cm",
+  "cantidad": 2000.0,
+  "valor_unit": 275.88,
+  "valor_total": 551760.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 70X100",
+  "cantidad": 1843.0,
+  "valor_unit": 3025.0,
+  "valor_total": 5575075.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD VERTICAL x 12",
+  "cantidad": 1804.0,
+  "valor_unit": 292.82,
+  "valor_total": 528247.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA 13x44 CM",
+  "cantidad": 1700.0,
+  "valor_unit": 165.77,
+  "valor_total": 281809.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MINI CUENTA DE COBRO PERIODICO",
+  "cantidad": 1638.0,
+  "valor_unit": 423.5,
+  "valor_total": 693693.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL TORNASOL ESTAMPADO 50X70",
+  "cantidad": 1500.0,
+  "valor_unit": 792.55,
+  "valor_total": 1188825.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK MINI IRIS",
+  "cantidad": 1493.0,
+  "valor_unit": 605.0,
+  "valor_total": 903265.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (1/2 CARTA)",
+  "cantidad": 1300.0,
+  "valor_unit": 786.5,
+  "valor_total": 1022450.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL PARAFINADO 20X20",
+  "cantidad": 1250.0,
+  "valor_unit": 96.8,
+  "valor_total": 121000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA SIN BOLSILLO CARTA",
+  "cantidad": 1243.0,
+  "valor_unit": 242.0,
+  "valor_total": 300806.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 85X87.5",
+  "cantidad": 1200.0,
+  "valor_unit": 1815.0,
+  "valor_total": 2178000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA CARTA",
+  "cantidad": 1100.0,
+  "valor_unit": 1815.0,
+  "valor_total": 1996500.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK ORIGAMI 14X14",
+  "cantidad": 994.0,
+  "valor_unit": 2057.0,
+  "valor_total": 2044658.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TAPA 11x11 VENTANA",
+  "cantidad": 910.0,
+  "valor_unit": 1331.0,
+  "valor_total": 1211210.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL ACUARELA 1/8 X10",
+  "cantidad": 901.0,
+  "valor_unit": 1815.0,
+  "valor_total": 1635315.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA CON BOLSILLO CARTA",
+  "cantidad": 862.0,
+  "valor_unit": 726.0,
+  "valor_total": 625812.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.0mm (1/2 CARTA)",
+  "cantidad": 814.0,
+  "valor_unit": 248.05,
+  "valor_total": 201913.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 8 x 17 CM",
+  "cantidad": 800.0,
+  "valor_unit": 90.75,
+  "valor_total": 72600.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA OFICIO",
+  "cantidad": 700.0,
+  "valor_unit": 202.07,
+  "valor_total": 141449.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL PERGAMINO 70X100cm",
+  "cantidad": 643.0,
+  "valor_unit": 3025.0,
+  "valor_total": 1945075.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK ORIGAMI 20X20",
+  "cantidad": 636.0,
+  "valor_unit": 2420.0,
+  "valor_total": 1539120.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROSADO IRIS PAQUETE X 20hojas",
+  "cantidad": 625.0,
+  "valor_unit": 3025.0,
+  "valor_total": 1890625.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA FLUORECENTE OFICIO",
+  "cantidad": 555.0,
+  "valor_unit": 387.2,
+  "valor_total": 214896.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON PAJA 70X100cm",
+  "cantidad": 530.0,
+  "valor_unit": 4356.0,
+  "valor_total": 2308680.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TARJETA TIPO LORD IRIS 5X9",
+  "cantidad": 511.0,
+  "valor_unit": 2662.0,
+  "valor_total": 1360282.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL BOND OFICIO PARA BITACORA",
+  "cantidad": 500.0,
+  "valor_unit": 88.33,
+  "valor_total": 44165.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KRAF DELGADO",
+  "cantidad": 500.0,
+  "valor_unit": 544.5,
+  "valor_total": 272250.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FICHAS BIBLIOGRAFICAS",
+  "cantidad": 472.0,
+  "valor_unit": 2020.7,
+  "valor_total": 953770.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON PAJA 1/8",
+  "cantidad": 420.0,
+  "valor_unit": 574.75,
+  "valor_total": 241395.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA MIRELLADA 78X100",
+  "cantidad": 419.0,
+  "valor_unit": 7865.0,
+  "valor_total": 3295435.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 11.5x 50 CM",
+  "cantidad": 400.0,
+  "valor_unit": 275.88,
+  "valor_total": 110352.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (CIRCULAR)",
+  "cantidad": 400.0,
+  "valor_unit": 363.0,
+  "valor_total": 145200.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL PERIODICO 70X50",
+  "cantidad": 400.0,
+  "valor_unit": 302.5,
+  "valor_total": 121000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA METALIZADA 70X100cm",
+  "cantidad": 380.0,
+  "valor_unit": 6050.0,
+  "valor_total": 2299000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (5X35cm)",
+  "cantidad": 378.0,
+  "valor_unit": 453.75,
+  "valor_total": 171518.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PICADILLO PARA RELLENO PIÑATAS",
+  "cantidad": 360.0,
+  "valor_unit": 1331.0,
+  "valor_total": 479160.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA FLOR PEQUEÑA",
+  "cantidad": 359.0,
+  "valor_unit": 4235.0,
+  "valor_total": 1520365.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 1/2 CARTA",
+  "cantidad": 350.0,
+  "valor_unit": 137.94,
+  "valor_total": 48279.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FINIGRANA 3mm",
+  "cantidad": 350.0,
+  "valor_unit": 1331.0,
+  "valor_total": 465850.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK ORIGAMI 10X10",
+  "cantidad": 325.0,
+  "valor_unit": 1694.0,
+  "valor_total": 550550.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROSADO IRIS PAQUETE X 48hojas",
+  "cantidad": 320.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1936000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD HORIZONTAL x 12",
+  "cantidad": 312.0,
+  "valor_unit": 292.82,
+  "valor_total": 91360.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "RECIBO CAJA MENOR ECOLOGICO",
+  "cantidad": 311.0,
+  "valor_unit": 3751.0,
+  "valor_total": 1166561.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 12x17 CM",
+  "cantidad": 300.0,
+  "valor_unit": 37.51,
+  "valor_total": 11253.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (7X22.5cm)",
+  "cantidad": 300.0,
+  "valor_unit": 123.42,
+  "valor_total": 37026.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (AGENDA)",
+  "cantidad": 298.0,
+  "valor_unit": 1183.38,
+  "valor_total": 352647.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL TEXTURIZADO CARTA X10",
+  "cantidad": 290.0,
+  "valor_unit": 3025.0,
+  "valor_total": 877250.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD FOTOGRAFICO x12",
+  "cantidad": 287.0,
+  "valor_unit": 272.25,
+  "valor_total": 78136.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE LORD GRIS",
+  "cantidad": 269.0,
+  "valor_unit": 350.9,
+  "valor_total": 94392.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK IRIS CARTA 30h",
+  "cantidad": 266.0,
+  "valor_unit": 3617.9,
+  "valor_total": 962361.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA ECOLOGICA PEQUEÑA COLORES FORMA FUTURO",
+  "cantidad": 263.0,
+  "valor_unit": 4235.0,
+  "valor_total": 1113805.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BEIGE IRIS PAQUETE X 48hojas",
+  "cantidad": 261.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1579050.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 70X100",
+  "cantidad": 259.0,
+  "valor_unit": 3025.0,
+  "valor_total": 783475.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (7X11cm)",
+  "cantidad": 250.0,
+  "valor_unit": 60.5,
+  "valor_total": 15125.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA GROFADA NEGRA",
+  "cantidad": 250.0,
+  "valor_unit": 5445.0,
+  "valor_total": 1361250.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE LORD VERDE",
+  "cantidad": 244.0,
+  "valor_unit": 350.9,
+  "valor_total": 85620.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE LORD AMARILLO",
+  "cantidad": 239.0,
+  "valor_unit": 350.9,
+  "valor_total": 83865.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TARJETA TIPO LORD 8.5X14.5",
+  "cantidad": 230.0,
+  "valor_unit": 3630.0,
+  "valor_total": 834900.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MORADO IRIS PAQUETE X 48hojas",
+  "cantidad": 226.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1367300.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TACO BLANCO GRANDE",
+  "cantidad": 222.0,
+  "valor_unit": 4235.0,
+  "valor_total": 940170.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (1/4)",
+  "cantidad": 217.0,
+  "valor_unit": 3872.0,
+  "valor_total": 840224.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON PAJA (1/2 CARTA) BLANCO",
+  "cantidad": 212.0,
+  "valor_unit": 198.44,
+  "valor_total": 42069.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA NOTAS PEQUEÑA",
+  "cantidad": 212.0,
+  "valor_unit": 1573.0,
+  "valor_total": 333476.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VERDE IRIS PAQUETE X 48hojas",
+  "cantidad": 207.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1252350.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SEPARADOR CARTA CARTULINA X5 SURTIDO",
+  "cantidad": 204.0,
+  "valor_unit": 1815.0,
+  "valor_total": 370260.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (22X9cm)",
+  "cantidad": 200.0,
+  "valor_unit": 165.77,
+  "valor_total": 33154.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 21X21cm",
+  "cantidad": 200.0,
+  "valor_unit": 252.89,
+  "valor_total": 50578.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FINIGRANA 7mm",
+  "cantidad": 200.0,
+  "valor_unit": 1331.0,
+  "valor_total": 266200.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON PERGAMINO 50X70",
+  "cantidad": 200.0,
+  "valor_unit": 1815.0,
+  "valor_total": 363000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "NARANJA IRIS PAQUETE X 48hojas",
+  "cantidad": 199.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1203950.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 18x20 MAXFUERTE",
+  "cantidad": 198.0,
+  "valor_unit": 2190.1,
+  "valor_total": 433640.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MORADO IRIS PAQUETE X 20hojas",
+  "cantidad": 197.0,
+  "valor_unit": 3025.0,
+  "valor_total": 595925.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINANEGRA 1/8",
+  "cantidad": 197.0,
+  "valor_unit": 4235.0,
+  "valor_total": 834295.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA BRISTOL 70X100cm",
+  "cantidad": 193.0,
+  "valor_unit": 1089.0,
+  "valor_total": 210177.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO 1/2 CARTA MIRELLADO",
+  "cantidad": 190.0,
+  "valor_unit": 363.0,
+  "valor_total": 68970.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLIGRAFO RETRACTIL 1.0mm OFIMARK",
+  "cantidad": 180.0,
+  "valor_unit": 665.5,
+  "valor_total": 119790.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ACETATO 70X100cm",
+  "cantidad": 173.0,
+  "valor_unit": 2299.0,
+  "valor_total": 397727.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROSA HECHA EN CARTULINA",
+  "cantidad": 170.0,
+  "valor_unit": 1815.0,
+  "valor_total": 308550.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS DIEZMO HORIZONTAL X12",
+  "cantidad": 155.0,
+  "valor_unit": 252.89,
+  "valor_total": 39198.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL KIMBERLY 17x33 CM",
+  "cantidad": 150.0,
+  "valor_unit": 252.89,
+  "valor_total": 37934.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR SHARPIE TANK PERMANENTE",
+  "cantidad": 150.0,
+  "valor_unit": 3025.0,
+  "valor_total": 453750.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA IRIS 1/4 ESTAMPADA",
+  "cantidad": 145.0,
+  "valor_unit": 4235.0,
+  "valor_total": 614075.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TACO BLANCO PEQUEÑO",
+  "cantidad": 128.0,
+  "valor_unit": 3630.0,
+  "valor_total": 464640.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VERDE IRIS PAQUETE X 20hojas",
+  "cantidad": 126.0,
+  "valor_unit": 3025.0,
+  "valor_total": 381150.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BEIGE IRIS PAQUETE X 20hojas",
+  "cantidad": 126.0,
+  "valor_unit": 3025.0,
+  "valor_total": 381150.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FINIGRANA 1cm",
+  "cantidad": 121.0,
+  "valor_unit": 1331.0,
+  "valor_total": 161051.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE + TARJETA LORD GRIS X 12",
+  "cantidad": 119.0,
+  "valor_unit": 4840.0,
+  "valor_total": 575960.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA MIRELLADA 50X100",
+  "cantidad": 119.0,
+  "valor_unit": 3932.5,
+  "valor_total": 467968.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA DE REGALO KRAF (L)",
+  "cantidad": 113.0,
+  "valor_unit": 1573.0,
+  "valor_total": 177749.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TACO IRIS GRANDE",
+  "cantidad": 112.0,
+  "valor_unit": 4235.0,
+  "valor_total": 474320.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL FIBRA 78X100 TELARAÑA??",
+  "cantidad": 112.0,
+  "valor_unit": 7865.0,
+  "valor_total": 880880.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA DE COBRO MULTIFORMA PEQUEÑO AUTOCOPIANTE",
+  "cantidad": 108.0,
+  "valor_unit": 2904.0,
+  "valor_total": 313632.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROLLO TIQUETIADORA METTO TEXTIL",
+  "cantidad": 102.0,
+  "valor_unit": 5445.0,
+  "valor_total": 555390.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSILLO LAMINAR OFICIO",
+  "cantidad": 100.0,
+  "valor_unit": 1331.0,
+  "valor_total": 133100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA NEGRA 70X100",
+  "cantidad": 100.0,
+  "valor_unit": 5082.0,
+  "valor_total": 508200.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA FLUORECENTE 70X100",
+  "cantidad": 100.0,
+  "valor_unit": 3025.0,
+  "valor_total": 302500.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MOÑO FACIL GRANDE",
+  "cantidad": 99.0,
+  "valor_unit": 605.0,
+  "valor_total": 59895.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD 9.5X14cm",
+  "cantidad": 97.0,
+  "valor_unit": 350.9,
+  "valor_total": 34037.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TAPA MEDIANA MAULE",
+  "cantidad": 96.0,
+  "valor_unit": 2662.0,
+  "valor_total": 255552.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA TAPA MEDIANA KRAF",
+  "cantidad": 96.0,
+  "valor_unit": 2662.0,
+  "valor_total": 255552.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR PERMANENTE OFIMARK PUNTA FINA",
+  "cantidad": 96.0,
+  "valor_unit": 3025.0,
+  "valor_total": 290400.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA GROFADA 70X100",
+  "cantidad": 90.0,
+  "valor_unit": 3025.0,
+  "valor_total": 272250.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FOAMY 4 CARTAS",
+  "cantidad": 90.0,
+  "valor_unit": 3267.0,
+  "valor_total": 294030.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROLLO TERMICO 57X30",
+  "cantidad": 85.0,
+  "valor_unit": 4235.0,
+  "valor_total": 359975.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR PERMANENTE OFIMARK",
+  "cantidad": 84.0,
+  "valor_unit": 3025.0,
+  "valor_total": 254100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLIGRAFI WENXU",
+  "cantidad": 83.0,
+  "valor_unit": 1089.0,
+  "valor_total": 90387.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL IRIS PAQUETE X 100hojas CARTA",
+  "cantidad": 81.0,
+  "valor_unit": 12705.0,
+  "valor_total": 1029105.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSILLO LAMINAR CARTA",
+  "cantidad": 80.0,
+  "valor_unit": 1089.0,
+  "valor_total": 87120.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSILLO LAMINAR CEDULA",
+  "cantidad": 80.0,
+  "valor_unit": 484.0,
+  "valor_total": 38720.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSILLO LAMINAR MATRICULA",
+  "cantidad": 80.0,
+  "valor_unit": 484.0,
+  "valor_total": 38720.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA 1/2 CARTA OPALINA",
+  "cantidad": 78.0,
+  "valor_unit": 10890.0,
+  "valor_total": 849420.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "AZUL IRIS PAQUETE X 20hojas",
+  "cantidad": 76.0,
+  "valor_unit": 3025.0,
+  "valor_total": 229900.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "AMARILLO IRIS PAQUETE X 20hojas",
+  "cantidad": 76.0,
+  "valor_unit": 3025.0,
+  "valor_total": 229900.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO TE QUIERO",
+  "cantidad": 74.0,
+  "valor_unit": 2420.0,
+  "valor_total": 179080.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TACO NOTAS IRIS ESPIRAL",
+  "cantidad": 73.0,
+  "valor_unit": 2420.0,
+  "valor_total": 176660.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO CILINDRO PEQUEÑO",
+  "cantidad": 71.0,
+  "valor_unit": 13310.0,
+  "valor_total": 945010.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD 12X18cm",
+  "cantidad": 70.0,
+  "valor_unit": 338.8,
+  "valor_total": 23716.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (6.5X23cm)",
+  "cantidad": 70.0,
+  "valor_unit": 111.32,
+  "valor_total": 7792.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR SHARPIE PUNTA DELGADA PERMANENTE",
+  "cantidad": 69.0,
+  "valor_unit": 3472.7,
+  "valor_total": 239616.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA COLGANTE CARTON AZUL V/P",
+  "cantidad": 69.0,
+  "valor_unit": 1331.0,
+  "valor_total": 91839.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROTULO CIRCULAR #13",
+  "cantidad": 69.0,
+  "valor_unit": 3025.0,
+  "valor_total": 208725.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA TRANSPARENTE 48x20 MAX FUERTE",
+  "cantidad": 68.0,
+  "valor_unit": 12463.0,
+  "valor_total": 847484.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (CARTA)",
+  "cantidad": 66.0,
+  "valor_unit": 1769.02,
+  "valor_total": 116755.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 24x20 MAX FUERTE",
+  "cantidad": 66.0,
+  "valor_unit": 2916.1,
+  "valor_total": 192463.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA IRIS X10 (1/8)",
+  "cantidad": 64.0,
+  "valor_unit": 2964.5,
+  "valor_total": 189728.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUBO IRIS 5X5 (PTE X10)",
+  "cantidad": 134.0,
+  "valor_unit": 2178.0,
+  "valor_total": 291852.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA COLGANTE CARTON CAFÉ V/P",
+  "cantidad": 63.0,
+  "valor_unit": 1331.0,
+  "valor_total": 83853.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO CARTA FLUORECENTE",
+  "cantidad": 61.0,
+  "valor_unit": 3630.0,
+  "valor_total": 221430.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "NARANJA IRIS PAQUETE X 20hojas",
+  "cantidad": 60.0,
+  "valor_unit": 3025.0,
+  "valor_total": 181500.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BORRADOR MIGA DE PAN GIPAO GP-203",
+  "cantidad": 60.0,
+  "valor_unit": 847.0,
+  "valor_total": 50820.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "COLOR ARTISAN X UNIDAD BLANCO",
+  "cantidad": 60.0,
+  "valor_unit": 2541.0,
+  "valor_total": 152460.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR PERMANENTE X-BEST",
+  "cantidad": 60.0,
+  "valor_unit": 2662.0,
+  "valor_total": 159720.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA METALIZADA X10 (1/8)",
+  "cantidad": 58.0,
+  "valor_unit": 5808.0,
+  "valor_total": 336864.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA DE REGALO NAVIDAD (M)",
+  "cantidad": 55.0,
+  "valor_unit": 1210.0,
+  "valor_total": 66550.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIRS LORD 19x19",
+  "cantidad": 54.0,
+  "valor_unit": 484.0,
+  "valor_total": 26136.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO CILINDRO MEDIANO",
+  "cantidad": 54.0,
+  "valor_unit": 14520.0,
+  "valor_total": 784080.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "OPALINA 70X100",
+  "cantidad": 54.0,
+  "valor_unit": 1815.0,
+  "valor_total": 98010.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO CARTA L-30",
+  "cantidad": 50.0,
+  "valor_unit": 3630.0,
+  "valor_total": 181500.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GEL ANTIBACTERIAL 30g",
+  "cantidad": 49.0,
+  "valor_unit": 2420.0,
+  "valor_total": 118580.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLIGRAFO OFFI-ESCO 0.7 OE-076",
+  "cantidad": 47.0,
+  "valor_unit": 665.5,
+  "valor_total": 31279.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA DE COBRO MULTIFORMA GRANDE AUTOCOPIANTE",
+  "cantidad": 47.0,
+  "valor_unit": 3630.0,
+  "valor_total": 170610.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LAPIZ GIPAO #2",
+  "cantidad": 45.0,
+  "valor_unit": 659.45,
+  "valor_total": 29675.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA TRANSPARENTE 12x20 (TACO) MAX FUETE",
+  "cantidad": 44.0,
+  "valor_unit": 8016.25,
+  "valor_total": 352715.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "YOYO PARA ESCARAPELA",
+  "cantidad": 44.0,
+  "valor_unit": 1512.5,
+  "valor_total": 66550.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA DE REGALO KRAF (S)",
+  "cantidad": 40.0,
+  "valor_unit": 1089.0,
+  "valor_total": 43560.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUBO IRIS 8X8 (PTEX 10)",
+  "cantidad": 40.0,
+  "valor_unit": 2178.0,
+  "valor_total": 87120.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ARCHIVADOR A-Z OFICIO",
+  "cantidad": 40.0,
+  "valor_unit": 13310.0,
+  "valor_total": 532400.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FOAMY CARTA",
+  "cantidad": 40.0,
+  "valor_unit": 1197.9,
+  "valor_total": 47916.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL SEDA X5",
+  "cantidad": 39.0,
+  "valor_unit": 847.0,
+  "valor_total": 33033.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TACO NOTAS IRIS DOBLE",
+  "cantidad": 39.0,
+  "valor_unit": 2420.0,
+  "valor_total": 94380.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUADERNO IRIS RAYADO",
+  "cantidad": 39.0,
+  "valor_unit": 13310.0,
+  "valor_total": 519090.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BORRADOR NATA STUDMARK",
+  "cantidad": 38.0,
+  "valor_unit": 847.0,
+  "valor_total": 32186.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA DE COBRO GRANDE PERIODICO #03",
+  "cantidad": 37.0,
+  "valor_unit": 968.0,
+  "valor_total": 35816.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "RESALTADOR GIPAO GRUESO",
+  "cantidad": 36.0,
+  "valor_unit": 1331.0,
+  "valor_total": 47916.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA HILO OFICO GIPAO",
+  "cantidad": 36.0,
+  "valor_unit": 2117.5,
+  "valor_total": 76230.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO LEGAJADOR PLASTICO MARFIL x20",
+  "cantidad": 35.0,
+  "valor_unit": 5203.0,
+  "valor_total": 182105.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO LEGAJADOR METALICO X20 TRITON",
+  "cantidad": 35.0,
+  "valor_unit": 5324.0,
+  "valor_total": 186340.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (MINI)",
+  "cantidad": 34.0,
+  "valor_unit": 665.5,
+  "valor_total": 22627.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA DE HILO GIPAO CARTA",
+  "cantidad": 34.0,
+  "valor_unit": 1996.5,
+  "valor_total": 67881.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA DE REGALO NAVIDAD (JUMBO)",
+  "cantidad": 33.0,
+  "valor_unit": 2057.0,
+  "valor_total": 67881.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA TRANSPARENTE 24x40 MAX FUERTE",
+  "cantidad": 32.0,
+  "valor_unit": 2299.0,
+  "valor_total": 73568.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SACAPUNTA CON DEPOSITO DOBLE CUADRADO UC-109",
+  "cantidad": 32.0,
+  "valor_unit": 2662.0,
+  "valor_total": 85184.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA CARTA ACUARELA COSIDA (cosida en papel textura)",
+  "cantidad": 32.0,
+  "valor_unit": 26620.0,
+  "valor_total": 851840.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ALFILER TRITON 50g",
+  "cantidad": 31.0,
+  "valor_unit": 2541.0,
+  "valor_total": 78771.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD 12X22cm",
+  "cantidad": 30.0,
+  "valor_unit": 544.5,
+  "valor_total": 16335.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MICROPUNTA PELIKAN 157",
+  "cantidad": 30.0,
+  "valor_unit": 1573.0,
+  "valor_total": 47190.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON MAULE 70X100cm",
+  "cantidad": 30.0,
+  "valor_unit": 2299.0,
+  "valor_total": 68970.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA REGALO METALIZADA (S)",
+  "cantidad": 29.0,
+  "valor_unit": 2420.0,
+  "valor_total": 70180.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD 10.5X24cm",
+  "cantidad": 29.0,
+  "valor_unit": 605.0,
+  "valor_total": 17545.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON INDUSTRIAL 1.5mm (1/8)",
+  "cantidad": 29.0,
+  "valor_unit": 726.0,
+  "valor_total": 21054.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGANTE EN BARRA TRITON 21g",
+  "cantidad": 29.0,
+  "valor_unit": 2541.0,
+  "valor_total": 73689.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL SEDA X 20",
+  "cantidad": 28.0,
+  "valor_unit": 3388.0,
+  "valor_total": 94864.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 24x20 MAX FUERTE",
+  "cantidad": 28.0,
+  "valor_unit": 2916.1,
+  "valor_total": 81651.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDERINES HALLOWEN",
+  "cantidad": 28.0,
+  "valor_unit": 5445.0,
+  "valor_total": 152460.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA DE BOLSILLO PEQUEÑA DE-0081",
+  "cantidad": 27.0,
+  "valor_unit": 3025.0,
+  "valor_total": 81675.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA NATILLERA",
+  "cantidad": 27.0,
+  "valor_unit": 423.5,
+  "valor_total": 11435.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPAS ESTÁNDAR MARFIL X1000 GALVANIZADA",
+  "cantidad": 27.0,
+  "valor_unit": 1149.5,
+  "valor_total": 31037.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA CON OBSEQUIO GEL ANTIBACTERIAL",
+  "cantidad": 27.0,
+  "valor_unit": 5445.0,
+  "valor_total": 147015.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO TE QUEREMOS MUCHO",
+  "cantidad": 27.0,
+  "valor_unit": 2420.0,
+  "valor_total": 65340.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK PINARES ROTULASO 50X35",
+  "cantidad": 27.0,
+  "valor_unit": 5445.0,
+  "valor_total": 147015.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA COLGANTE PLASTICA GIPAO",
+  "cantidad": 26.0,
+  "valor_unit": 7986.0,
+  "valor_total": 207636.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PORTAMINAS 0.5 PELIKAN TINKY",
+  "cantidad": 26.0,
+  "valor_unit": 3993.0,
+  "valor_total": 103818.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA MIRELLADA OPALINA 1/2 CARTA (puntos)",
+  "cantidad": 26.0,
+  "valor_unit": 13310.0,
+  "valor_total": 346060.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIJERA GIPAO 6.5\" GP-165",
+  "cantidad": 25.0,
+  "valor_unit": 3025.0,
+  "valor_total": 75625.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LAPIZ MIRADO # 2",
+  "cantidad": 25.0,
+  "valor_unit": 907.5,
+  "valor_total": 22688.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO CON CARIÑO",
+  "cantidad": 25.0,
+  "valor_unit": 2420.0,
+  "valor_total": 60500.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PINCHO TODA OCASIÓN",
+  "cantidad": 25.0,
+  "valor_unit": 1573.0,
+  "valor_total": 39325.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA DE BROCHE CARTA GIPAO",
+  "cantidad": 24.0,
+  "valor_unit": 1808.95,
+  "valor_total": 43415.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA DE BROCHE OFICIO GIPAO",
+  "cantidad": 24.0,
+  "valor_unit": 2117.5,
+  "valor_total": 50820.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIJERA GIPAO 7\" GP-167",
+  "cantidad": 24.0,
+  "valor_unit": 3267.0,
+  "valor_total": 78408.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CORRECTOR OFFI-ESCO EN CINTA 6mt OE-260",
+  "cantidad": 24.0,
+  "valor_unit": 2420.0,
+  "valor_total": 58080.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CORRECTOR OFFI-ESCO EN LAPIZ OE-251",
+  "cantidad": 24.0,
+  "valor_unit": 1391.5,
+  "valor_total": 33396.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ADHESIVO CARTA CD",
+  "cantidad": 23.0,
+  "valor_unit": 3993.0,
+  "valor_total": 91839.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA A4 MULTIPAPEL 36hojas",
+  "cantidad": 23.0,
+  "valor_unit": 44770.0,
+  "valor_total": 1029710.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL ACUARELA 70X100",
+  "cantidad": 23.0,
+  "valor_unit": 9075.0,
+  "valor_total": 208725.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTULINA DALI 1/8",
+  "cantidad": 22.0,
+  "valor_unit": 5082.0,
+  "valor_total": 111804.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK BASE 30 ARGOLLADO",
+  "cantidad": 22.0,
+  "valor_unit": 7260.0,
+  "valor_total": 159720.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PARA BITACORA (1/8)",
+  "cantidad": 21.0,
+  "valor_unit": 2178.0,
+  "valor_total": 45738.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "AZUL IRIS PAQUETE X 48hojas",
+  "cantidad": 21.0,
+  "valor_unit": 6050.0,
+  "valor_total": 127050.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BORRADOR NATA 612",
+  "cantidad": 21.0,
+  "valor_unit": 338.8,
+  "valor_total": 7115.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "HUELLERO PEQUEÑO GIPAO GP-133",
+  "cantidad": 21.0,
+  "valor_unit": 4840.0,
+  "valor_total": 101640.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PINCEL AH ROYAL ARTISTICO X6",
+  "cantidad": 20.0,
+  "valor_unit": 3630.0,
+  "valor_total": 72600.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA CARTON LEGAJADORA OFICIO",
+  "cantidad": 20.0,
+  "valor_unit": 605.0,
+  "valor_total": 12100.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA BITACORA PINARES 50X35",
+  "cantidad": 20.0,
+  "valor_unit": 3630.0,
+  "valor_total": 72600.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SACAPUNTAS METALICO IMPORTADO A1002",
+  "cantidad": 19.0,
+  "valor_unit": 314.6,
+  "valor_total": 5977.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SILICONA LIQUIDA MAX FUERTE 30ml",
+  "cantidad": 19.0,
+  "valor_unit": 2420.0,
+  "valor_total": 45980.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPA ESTÁNDAR MARFIL X5000 GALVANIZADA",
+  "cantidad": 18.0,
+  "valor_unit": 4598.0,
+  "valor_total": 82764.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA LEGAJADORA PLASTICA OFICIO GIPAO GP-125",
+  "cantidad": 18.0,
+  "valor_unit": 3206.5,
+  "valor_total": 57717.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA TRANSPARENTE 12x20 (MANILLA) MAX FUETE",
+  "cantidad": 17.0,
+  "valor_unit": 5808.0,
+  "valor_total": 98736.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGANTE EN BARRA GIPAO 40 g GP-420",
+  "cantidad": 17.0,
+  "valor_unit": 4089.8,
+  "valor_total": 69527.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO DE MADERA MINI X 12",
+  "cantidad": 16.0,
+  "valor_unit": 2964.5,
+  "valor_total": 47432.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REPUESTO CUCHILLA BISTURI PEQUEÑO",
+  "cantidad": 15.0,
+  "valor_unit": 1452.0,
+  "valor_total": 21780.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDA DE CAUCHO 1/4 SILICONADA",
+  "cantidad": 15.0,
+  "valor_unit": 26620.0,
+  "valor_total": 399300.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "COLOR NEW ELITE X12 CORTO",
+  "cantidad": 15.0,
+  "valor_unit": 2420.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VINILO RAPID 125g",
+  "cantidad": 15.0,
+  "valor_unit": 3194.4,
+  "valor_total": 47916.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO FDIA DE LA MUJER",
+  "cantidad": 15.0,
+  "valor_unit": 2420.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TABLA DE APOYO A4 ETERNA",
+  "cantidad": 14.0,
+  "valor_unit": 6655.0,
+  "valor_total": 93170.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 48X20 MAX FUERTE",
+  "cantidad": 14.0,
+  "valor_unit": 4840.0,
+  "valor_total": 67760.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLSA DE REGALO KRAF (M)",
+  "cantidad": 13.0,
+  "valor_unit": 1331.0,
+  "valor_total": 17303.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA LEGAJADORA CON RESORTE OFICIO GIPAO",
+  "cantidad": 13.0,
+  "valor_unit": 3751.0,
+  "valor_total": 48763.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BISTURI GRANDE IMPORTADO",
+  "cantidad": 13.0,
+  "valor_unit": 7260.0,
+  "valor_total": 94380.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REGLA RIGIDA GIPAO 30cm",
+  "cantidad": 13.0,
+  "valor_unit": 2178.0,
+  "valor_total": 28314.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGANTE LIQUIDO SIPEGA 40g",
+  "cantidad": 13.0,
+  "valor_unit": 822.8,
+  "valor_total": 10696.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CLIP ESTÁNDAR TRITON",
+  "cantidad": 13.0,
+  "valor_unit": 937.75,
+  "valor_total": 12191.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REGLA FLEXIBLE GIPAO 30cm",
+  "cantidad": 12.0,
+  "valor_unit": 2359.5,
+  "valor_total": 28314.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPADORA GIPAO MEDIANA GP-206",
+  "cantidad": 12.0,
+  "valor_unit": 10890.0,
+  "valor_total": 130680.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL PERGAMINO 1/8",
+  "cantidad": 12.0,
+  "valor_unit": 726.0,
+  "valor_total": 8712.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA CIERRE CARTA GIPAO",
+  "cantidad": 12.0,
+  "valor_unit": 2202.2,
+  "valor_total": 26426.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA CIERRE OFICIO GIPAO|",
+  "cantidad": 12.0,
+  "valor_unit": 2420.0,
+  "valor_total": 29040.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA LEGAJADORA PLASTICA CARTA GIPAO GP-123",
+  "cantidad": 12.0,
+  "valor_unit": 2964.5,
+  "valor_total": 35574.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MOÑO FACIL PEQUEÑO X10",
+  "cantidad": 12.0,
+  "valor_unit": 4235.0,
+  "valor_total": 50820.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA CARTA ACUARELA ARGOLLADA",
+  "cantidad": 12.0,
+  "valor_unit": 38720.0,
+  "valor_total": 464640.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE IRIS LORD 16x22",
+  "cantidad": 11.0,
+  "valor_unit": 968.0,
+  "valor_total": 10648.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "NUMERADOR 8 DIGITOS",
+  "cantidad": 11.0,
+  "valor_unit": 13310.0,
+  "valor_total": 146410.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PORTABOLIGRAFO REDONDO METALICO",
+  "cantidad": 11.0,
+  "valor_unit": 10890.0,
+  "valor_total": 119790.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAD MOUSE GEL FINO GAR OZ",
+  "cantidad": 11.0,
+  "valor_unit": 15730.0,
+  "valor_total": 173030.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PASTA PAR AALBUM 1/4 ESTAMPADA",
+  "cantidad": 11.0,
+  "valor_unit": 3872.0,
+  "valor_total": 42592.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRO DE ACTAS 100 FOLIOS S/abc",
+  "cantidad": 11.0,
+  "valor_unit": 13310.0,
+  "valor_total": 146410.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO FELIZ DIA DE LA MADRE",
+  "cantidad": 11.0,
+  "valor_unit": 2420.0,
+  "valor_total": 26620.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL BOND BLANCO",
+  "cantidad": 11.0,
+  "valor_unit": 496.1,
+  "valor_total": 5457.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REPUESTO CUCHILLA BISTURI GRANDE",
+  "cantidad": 10.0,
+  "valor_unit": 1536.7,
+  "valor_total": 15367.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LAPIZ MIRADO ROJO COLORCHECK",
+  "cantidad": 10.0,
+  "valor_unit": 1179.75,
+  "valor_total": 11798.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "RESALTADOR SHARPIE GRUESO",
+  "cantidad": 10.0,
+  "valor_unit": 3025.0,
+  "valor_total": 30250.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VINILO RAPID 30g",
+  "cantidad": 10.0,
+  "valor_unit": 913.55,
+  "valor_total": 9136.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA NOTAS 1/2 CARTA PASTA NEGRA",
+  "cantidad": 10.0,
+  "valor_unit": 2783.0,
+  "valor_total": 27830.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TALONARIO DE RIFAS BOND PEQUEÑO",
+  "cantidad": 10.0,
+  "valor_unit": 1161.6,
+  "valor_total": 11616.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGALOCA INFINITA",
+  "cantidad": 10.0,
+  "valor_unit": 1089.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA CARTA HOJA NEGRA",
+  "cantidad": 10.0,
+  "valor_unit": 21780.0,
+  "valor_total": 217800.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA 1/8 BOND",
+  "cantidad": 10.0,
+  "valor_unit": 12100.0,
+  "valor_total": 121000.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIJERA GIPAO 7.5\" GP-195",
+  "cantidad": 9.0,
+  "valor_unit": 3872.0,
+  "valor_total": 34848.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MARCADOR CHEQUEADOR DE BILLETES",
+  "cantidad": 9.0,
+  "valor_unit": 6655.0,
+  "valor_total": 59895.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GEL ANTIBACTERIAL 30g HAPPY",
+  "cantidad": 9.0,
+  "valor_unit": 2662.0,
+  "valor_total": 23958.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ROLLO TIQUETIADORA AMARILLO",
+  "cantidad": 9.0,
+  "valor_unit": 2420.0,
+  "valor_total": 21780.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SILICONA LIQUIDA GIPAO 500ml",
+  "cantidad": 9.0,
+  "valor_unit": 15125.0,
+  "valor_total": 136125.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK MANTEQUILLA 1/8",
+  "cantidad": 9.0,
+  "valor_unit": 5434.11,
+  "valor_total": 48907.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO RECTANGULAR PEQUEÑA PASTA DURA",
+  "cantidad": 8.0,
+  "valor_unit": 13310.0,
+  "valor_total": 106480.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MINA PARA PORTAMINAS 0.5 FABER-CASTELL",
+  "cantidad": 8.0,
+  "valor_unit": 1488.3,
+  "valor_total": 11906.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CORRECTOR OFIMARK TIPO BARNIZ",
+  "cantidad": 8.0,
+  "valor_unit": 3388.0,
+  "valor_total": 27104.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TUBO MIRELLA",
+  "cantidad": 8.0,
+  "valor_unit": 350.9,
+  "valor_total": 2807.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "NUMERADOR 6 DIGITOS",
+  "cantidad": 8.0,
+  "valor_unit": 5445.0,
+  "valor_total": 43560.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPADORA GIPAO PEQUEÑA GP-200",
+  "cantidad": 8.0,
+  "valor_unit": 14520.0,
+  "valor_total": 116160.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA DOBLE FAZ 3/4 900g",
+  "cantidad": 8.0,
+  "valor_unit": 3327.5,
+  "valor_total": 26620.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARTON PERGAMINO 1/8",
+  "cantidad": 8.0,
+  "valor_unit": 3630.0,
+  "valor_total": 29040.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA 1/8 OPALINA",
+  "cantidad": 8.0,
+  "valor_unit": 26620.0,
+  "valor_total": 212960.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIJERA GIPAO 6\" GP-166",
+  "cantidad": 7.0,
+  "valor_unit": 2238.5,
+  "valor_total": 15670.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIJERA GIPAO 8\" GP-216",
+  "cantidad": 7.0,
+  "valor_unit": 4840.0,
+  "valor_total": 33880.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LUPA CAJA VERDE 75mm",
+  "cantidad": 7.0,
+  "valor_unit": 3993.0,
+  "valor_total": 27951.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CHINCHON PLASTICO GIPAO CAJA ACRILICA GP-33",
+  "cantidad": 7.0,
+  "valor_unit": 4840.0,
+  "valor_total": 33880.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "UÑA SACAGRAPAS HOMESING",
+  "cantidad": 7.0,
+  "valor_unit": 3388.0,
+  "valor_total": 23716.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 12X20 MAX FUERTE",
+  "cantidad": 7.0,
+  "valor_unit": 1464.1,
+  "valor_total": 10249.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REGLA METALICA 50cm",
+  "cantidad": 7.0,
+  "valor_unit": 3388.0,
+  "valor_total": 23716.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDERIN METALIZADO FELIZ CUMPLEAÑOS",
+  "cantidad": 7.0,
+  "valor_unit": 8470.0,
+  "valor_total": 59290.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SOBRE METALIZADO ESQUELA",
+  "cantidad": 7.0,
+  "valor_unit": 2299.0,
+  "valor_total": 16093.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAFÉ IRIS PAQUETE X 20hojas",
+  "cantidad": 6.0,
+  "valor_unit": 3025.0,
+  "valor_total": 18150.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TABLA DE APOYO CON COMPARTIMIENTO BARAN",
+  "cantidad": 6.0,
+  "valor_unit": 35090.0,
+  "valor_total": 210540.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA DE BROCHE TIPO MALETIN OFICIO",
+  "cantidad": 6.0,
+  "valor_unit": 7623.0,
+  "valor_total": 45738.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA TIPO CATALOOGO OFICIO",
+  "cantidad": 6.0,
+  "valor_unit": 10285.0,
+  "valor_total": 61710.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REGLA METALICA 30cm AH ROYAL",
+  "cantidad": 6.0,
+  "valor_unit": 1813.79,
+  "valor_total": 10883.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDA DE CAUCHO COLORES 1/4",
+  "cantidad": 6.0,
+  "valor_unit": 11253.0,
+  "valor_total": 67518.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLIGRAFO OFFI-ESCO 0.7 BORRABLE RETRACTIL OE-025",
+  "cantidad": 6.0,
+  "valor_unit": 847.0,
+  "valor_total": 5082.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MINA PARA BOLIGRAFO MEDIUM",
+  "cantidad": 6.0,
+  "valor_unit": 3872.0,
+  "valor_total": 23232.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CALCULADORA KADIO 12DIGITOS GRANDE",
+  "cantidad": 6.0,
+  "valor_unit": 10587.5,
+  "valor_total": 63525.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SILICONA LIQUIDA MAX FUERTE 100ml",
+  "cantidad": 6.0,
+  "valor_unit": 6292.0,
+  "valor_total": 37752.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TACO ADHESIVO X5 MINI COLORES SURTIDO GIPAO X400",
+  "cantidad": 6.0,
+  "valor_unit": 6655.0,
+  "valor_total": 39930.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CLIP JUMBO COLORES",
+  "cantidad": 6.0,
+  "valor_unit": 22990.0,
+  "valor_total": 137940.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA EMBALAJE MARRON OFIMARK 48X20",
+  "cantidad": 6.0,
+  "valor_unit": 5445.0,
+  "valor_total": 32670.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL FOTOGRAFICO 230g 20hojas",
+  "cantidad": 6.0,
+  "valor_unit": 10890.0,
+  "valor_total": 65340.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL FOTOGRAFICO 135g 20hojas ADHESIVO",
+  "cantidad": 6.0,
+  "valor_unit": 13915.0,
+  "valor_total": 83490.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL FOTOGRAFICO 160g 20hojas",
+  "cantidad": 6.0,
+  "valor_unit": 10285.0,
+  "valor_total": 61710.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA ARCHIVADOR 13 BOLSILLOS CARTA KRACH",
+  "cantidad": 6.0,
+  "valor_unit": 30855.0,
+  "valor_total": 185130.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA BISEL PEQUEÑO CARTA OFIMARK",
+  "cantidad": 6.0,
+  "valor_unit": 4235.0,
+  "valor_total": 25410.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #5",
+  "cantidad": 6.0,
+  "valor_unit": 1815.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #6",
+  "cantidad": 6.0,
+  "valor_unit": 1815.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO RECUPERATE PRONTO",
+  "cantidad": 6.0,
+  "valor_unit": 2420.0,
+  "valor_total": 14520.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO CILINDRO GRANDE",
+  "cantidad": 5.0,
+  "valor_unit": 19360.0,
+  "valor_total": 96800.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDA DE CAUCHO COLORES 50g",
+  "cantidad": 5.0,
+  "valor_unit": 2904.0,
+  "valor_total": 14520.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA FACIL AZOR PEQUEÑO",
+  "cantidad": 5.0,
+  "valor_unit": 2662.0,
+  "valor_total": 13310.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BISTURI X-ACTO GIPAO|",
+  "cantidad": 5.0,
+  "valor_unit": 7139.0,
+  "valor_total": 35695.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "DISPENSADOR DE CINTA GARNDE GIPAO GP-506",
+  "cantidad": 5.0,
+  "valor_unit": 30250.0,
+  "valor_total": 151250.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGANTE LIQUIDO SIPEGA 250g",
+  "cantidad": 5.0,
+  "valor_unit": 3872.0,
+  "valor_total": 19360.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TALONARIO DE REMISION",
+  "cantidad": 5.0,
+  "valor_unit": 4598.0,
+  "valor_total": 22990.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ALMOHADILLA CON TINTA PARA SELLOS ETERNA",
+  "cantidad": 5.0,
+  "valor_unit": 4719.0,
+  "valor_total": 23595.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PLASTI FLECHAS 25mm CAJA X 5000",
+  "cantidad": 5.0,
+  "valor_unit": 30250.0,
+  "valor_total": 151250.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "ALFILER CABEZA PLASTICA",
+  "cantidad": 5.0,
+  "valor_unit": 7260.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL FOTOGRAFICO 210g 20hojas",
+  "cantidad": 5.0,
+  "valor_unit": 13310.0,
+  "valor_total": 66550.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA ARCHIVADOR 13 BOLSILLOS OFICIO",
+  "cantidad": 5.0,
+  "valor_unit": 36300.0,
+  "valor_total": 181500.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CORTINA METALIZADA",
+  "cantidad": 5.0,
+  "valor_unit": 4477.0,
+  "valor_total": 22385.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #3",
+  "cantidad": 5.0,
+  "valor_unit": 2178.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #7",
+  "cantidad": 5.0,
+  "valor_unit": 2178.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #9",
+  "cantidad": 5.0,
+  "valor_unit": 2178.0,
+  "valor_total": 10890.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA PINARES 50X35",
+  "cantidad": 5.0,
+  "valor_unit": 24200.0,
+  "valor_total": 121000.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA CARTA DORADA BOND",
+  "cantidad": 5.0,
+  "valor_unit": 10890.0,
+  "valor_total": 54450.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PAPEL PROPALCOTE 70X100",
+  "cantidad": 5.0,
+  "valor_unit": 1210.0,
+  "valor_total": 6050.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO RECTANGULAR 15X54 PASTA DURA",
+  "cantidad": 4.0,
+  "valor_unit": 18150.0,
+  "valor_total": 72600.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MINA PARA PORTAMINAS 0.7 FABER-CASTELL",
+  "cantidad": 4.0,
+  "valor_unit": 1488.3,
+  "valor_total": 5953.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "REVISTERO MALLA METALICO",
+  "cantidad": 4.0,
+  "valor_unit": 9196.0,
+  "valor_total": 36784.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TEMPERA PARCHESITO X6 COLORES BASICOS",
+  "cantidad": 4.0,
+  "valor_unit": 5203.0,
+  "valor_total": 20812.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDERIN SEPARADOR X5",
+  "cantidad": 4.0,
+  "valor_unit": 3025.0,
+  "valor_total": 12100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TALONARIO LETRA DE CAMBIO",
+  "cantidad": 4.0,
+  "valor_unit": 2698.3,
+  "valor_total": 10793.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FLECHADORA PLASTICA TACHER II",
+  "cantidad": 4.0,
+  "valor_unit": 91839.0,
+  "valor_total": 367356.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPADORA GIPAO GRANDE GP-935",
+  "cantidad": 4.0,
+  "valor_unit": 33880.0,
+  "valor_total": 135520.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CLIP JUMBO TRITON",
+  "cantidad": 4.0,
+  "valor_unit": 2758.8,
+  "valor_total": 11035.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CLIP MARIPOSA OFIMARK",
+  "cantidad": 4.0,
+  "valor_unit": 3267.0,
+  "valor_total": 13068.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA ENMASCARAR 3\"X20 MAX FUERTE",
+  "cantidad": 4.0,
+  "valor_unit": 3993.0,
+  "valor_total": 15972.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LIBRETA ALTAMIRA 1/4 VERTICAL",
+  "cantidad": 4.0,
+  "valor_unit": 3025.0,
+  "valor_total": 12100.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK ARTEMANIA",
+  "cantidad": 4.0,
+  "valor_unit": 9680.0,
+  "valor_total": 38720.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA MENOR GIPAO 12\"",
+  "cantidad": 4.0,
+  "valor_unit": 85910.0,
+  "valor_total": 343640.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FOLDER CARTA ESTAMPADO 0.5",
+  "cantidad": 4.0,
+  "valor_unit": 11858.0,
+  "valor_total": 47432.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #4",
+  "cantidad": 4.0,
+  "valor_unit": 2178.0,
+  "valor_total": 8712.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CHUZO PARA VALE",
+  "cantidad": 3.0,
+  "valor_unit": 5505.5,
+  "valor_total": 16517.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LUPA CAJA VERDE 60mm",
+  "cantidad": 3.0,
+  "valor_unit": 2541.0,
+  "valor_total": 7623.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDA DE CAUCHO 500g SILICONADA",
+  "cantidad": 3.0,
+  "valor_unit": 30613.0,
+  "valor_total": 91839.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TEMPERA PARCHESITOX6 PASTEL",
+  "cantidad": 3.0,
+  "valor_unit": 9559.0,
+  "valor_total": 28677.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOLIGRAFO GIPAO GP-70",
+  "cantidad": 3.0,
+  "valor_unit": 786.5,
+  "valor_total": 2360.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "DISPENSADOR DE CINTA MANUAL GP-505",
+  "cantidad": 3.0,
+  "valor_unit": 18150.0,
+  "valor_total": 54450.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PERFORADORA 2 HUECOS MEDIANA GP-05",
+  "cantidad": 3.0,
+  "valor_unit": 10043.0,
+  "valor_total": 30129.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VINILO PARCHESITOS 125g",
+  "cantidad": 3.0,
+  "valor_unit": 3194.4,
+  "valor_total": 9583.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "VINILO PARCHESITOS 30g",
+  "cantidad": 3.0,
+  "valor_unit": 913.55,
+  "valor_total": 2741.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PEGANTE LIQUIDO SIPEGA 125g",
+  "cantidad": 3.0,
+  "valor_unit": 2238.5,
+  "valor_total": 6716.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TINTA PARA SELLOS PELIKAN",
+  "cantidad": 3.0,
+  "valor_unit": 4840.0,
+  "valor_total": 14520.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TACO ADHESIVO X 5 COLORES SURTIDO 76*76 GIPAO X320",
+  "cantidad": 3.0,
+  "valor_unit": 6655.0,
+  "valor_total": 19965.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GRAPADORA MINI EAGLE",
+  "cantidad": 3.0,
+  "valor_unit": 3811.5,
+  "valor_total": 11435.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BANDEJA MALLA 2 PUESTOS",
+  "cantidad": 3.0,
+  "valor_unit": 26620.0,
+  "valor_total": 79860.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA CIERRE 1/2 CARTA",
+  "cantidad": 3.0,
+  "valor_unit": 3993.0,
+  "valor_total": 11979.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #1",
+  "cantidad": 3.0,
+  "valor_unit": 2420.0,
+  "valor_total": 7260.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #2",
+  "cantidad": 3.0,
+  "valor_unit": 2420.0,
+  "valor_total": 7260.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GLOBO METILIZADO #8",
+  "cantidad": 3.0,
+  "valor_unit": 2420.0,
+  "valor_total": 7260.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BITACORA OFICIO BOND",
+  "cantidad": 3.0,
+  "valor_unit": 9075.0,
+  "valor_total": 27225.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "RESALTADOR PASTEL X6 GIPAO",
+  "cantidad": 2.0,
+  "valor_unit": 7623.0,
+  "valor_total": 15246.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GEL ANTIBACTERIAL 50g",
+  "cantidad": 2.0,
+  "valor_unit": 2420.0,
+  "valor_total": 4840.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA FACIL AZOR GRANDE",
+  "cantidad": 2.0,
+  "valor_unit": 3630.0,
+  "valor_total": 7260.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PORTAMINAS 0.5 FIESTA",
+  "cantidad": 2.0,
+  "valor_unit": 3993.0,
+  "valor_total": 7986.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CALCULADORA KADIO 8DIGITOS PEQUEÑA",
+  "cantidad": 2.0,
+  "valor_unit": 6050.0,
+  "valor_total": 12100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PISTOLA DE SILICONA GRANDE GIPAO GP-302",
+  "cantidad": 2.0,
+  "valor_unit": 14520.0,
+  "valor_total": 29040.0,
+  "categoria_draft": "Adhesivos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PERFORADORA 2 HUECOS PEQUEÑA GIPAO GP-310",
+  "cantidad": 2.0,
+  "valor_unit": 15125.0,
+  "valor_total": 30250.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PERFORADORA 1 HUECO GIPAO GP- 309",
+  "cantidad": 2.0,
+  "valor_unit": 3569.5,
+  "valor_total": 7139.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CUENTA DE COBRO MULTIFORMA MEDIANO AUTOCOPIANTE ORI",
+  "cantidad": 2.0,
+  "valor_unit": 3267.0,
+  "valor_total": 6534.0,
+  "categoria_draft": "Sobres y tarjetería"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO LOTERO DINGLI 1\"",
+  "cantidad": 2.0,
+  "valor_unit": 2904.0,
+  "valor_total": 5808.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO LOTERO DINGLI 11/4\"",
+  "cantidad": 2.0,
+  "valor_unit": 4840.0,
+  "valor_total": 9680.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CINTA INVISIBLE CON DISPENSADOR OFIMARK",
+  "cantidad": 2.0,
+  "valor_unit": 4840.0,
+  "valor_total": 9680.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BLOCK NORMA CONSTRUCCION",
+  "cantidad": 2.0,
+  "valor_unit": 10890.0,
+  "valor_total": 21780.0,
+  "categoria_draft": "Bloques y cuadernos"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA MENOR 10\"",
+  "cantidad": 2.0,
+  "valor_unit": 91960.0,
+  "valor_total": 183920.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA LEGAJADORA PLASTICA CARTA OFIMARK",
+  "cantidad": 2.0,
+  "valor_unit": 4235.0,
+  "valor_total": 8470.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MOÑO FACIL MEDIANO X10",
+  "cantidad": 2.0,
+  "valor_unit": 2843.5,
+  "valor_total": 5687.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO FELIZ DIA",
+  "cantidad": 2.0,
+  "valor_unit": 2420.0,
+  "valor_total": 4840.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "LETRERO MIRELLADO TE AMO",
+  "cantidad": 2.0,
+  "valor_unit": 2420.0,
+  "valor_total": 4840.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CONFETI",
+  "cantidad": 2.0,
+  "valor_unit": 3509.0,
+  "valor_total": 7018.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAFÉ IRIS PAQUETE X 48hojas",
+  "cantidad": 1.0,
+  "valor_unit": 6050.0,
+  "valor_total": 6050.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO CUBO 15X15",
+  "cantidad": 1.0,
+  "valor_unit": 2057.0,
+  "valor_total": 2057.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO RECTANGULAR 25X35",
+  "cantidad": 1.0,
+  "valor_unit": 20570.0,
+  "valor_total": 20570.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO CILINDRO GIGANTE",
+  "cantidad": 1.0,
+  "valor_unit": 36300.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO RECTANGULAR 20X60",
+  "cantidad": 1.0,
+  "valor_unit": 25410.0,
+  "valor_total": 25410.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CAJA REGALO RECTANGULAR 55X10",
+  "cantidad": 1.0,
+  "valor_unit": 26620.0,
+  "valor_total": 26620.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SACAPUNTAS METALICO DE MESA",
+  "cantidad": 1.0,
+  "valor_unit": 50820.0,
+  "valor_total": 50820.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "MOUSE INALAMBRICO TB-220",
+  "cantidad": 1.0,
+  "valor_unit": 48400.0,
+  "valor_total": 48400.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CRONOMETROI MAX ELECTRONICS",
+  "cantidad": 1.0,
+  "valor_unit": 27830.0,
+  "valor_total": 27830.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "COLOR OFIMARK X 24",
+  "cantidad": 1.0,
+  "valor_unit": 11495.0,
+  "valor_total": 11495.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "DISPENSADOR DE CINTA GARNDE OFIMARK",
+  "cantidad": 1.0,
+  "valor_unit": 20570.0,
+  "valor_total": 20570.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "PERFORADORA 3 HUECOS GP-890",
+  "cantidad": 1.0,
+  "valor_unit": 36300.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "FLECHADORA PLASTICA STD",
+  "cantidad": 1.0,
+  "valor_unit": 31339.0,
+  "valor_total": 31339.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "TIQUETEADORA LABELLER M-001",
+  "cantidad": 1.0,
+  "valor_unit": 84700.0,
+  "valor_total": 84700.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "GANCHO LOTERO DINGLI 2\"",
+  "cantidad": 1.0,
+  "valor_unit": 10598.0,
+  "valor_total": 10598.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "CARPETA PRIMAVERA LIGA CANAL ESTAMPADA",
+  "cantidad": 1.0,
+  "valor_unit": 4840.0,
+  "valor_total": 4840.0,
+  "categoria_draft": "Carpetas y archivo"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOMBA R12 X50",
+  "cantidad": 1.0,
+  "valor_unit": 7502.0,
+  "valor_total": 7502.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "SERPENTINA X3",
+  "cantidad": 1.0,
+  "valor_unit": 1815.0,
+  "valor_total": 1815.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Materiales y suministros",
+  "nombre": "BOUQUET 5 PIEZAS",
+  "cantidad": 1.0,
+  "valor_unit": 9680.0,
+  "valor_total": 9680.0,
+  "categoria_draft": "Origami y fiesta"
+ },
+ {
+  "bloque": "Equipos de produccion",
+  "nombre": "LAMINADORA",
+  "cantidad": 1.0,
+  "valor_unit": 550000.0,
+  "valor_total": 550000.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Equipos de produccion",
+  "nombre": "DUPLICADORA Y REPUESTO MASTER",
+  "cantidad": 1.0,
+  "valor_unit": 11000000.0,
+  "valor_total": 11000000.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Equipos de produccion",
+  "nombre": "TINTA IMPRESORA (DUPLICADORA)",
+  "cantidad": 3.0,
+  "valor_unit": 200000.0,
+  "valor_total": 600000.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Equipos de produccion",
+  "nombre": "CERRADORA MANUAL",
+  "cantidad": 1.0,
+  "valor_unit": 880000.0,
+  "valor_total": 880000.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Equipos de produccion",
+  "nombre": "SANDUCHADORA INDUSTRIAL",
+  "cantidad": 1.0,
+  "valor_unit": 11000000.0,
+  "valor_total": 11000000.0,
+  "categoria_draft": "Escritorio y oficina"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "PLANOTECA",
+  "cantidad": 2.0,
+  "valor_unit": 1570000.0,
+  "valor_total": 3140000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "ESTANTERIA PAPEL",
+  "cantidad": 7.0,
+  "valor_unit": 193190.0,
+  "valor_total": 1352330.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "ESTANTERIA INDUSTRIAL",
+  "cantidad": 7.0,
+  "valor_unit": 1200000.0,
+  "valor_total": 8400000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "MUEBLE ORGANIZADOR EN MADERA",
+  "cantidad": 3.0,
+  "valor_unit": 200000.0,
+  "valor_total": 600000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "MESA MADERA GRANDE",
+  "cantidad": 1.0,
+  "valor_unit": 1089000.0,
+  "valor_total": 1089000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "VITRINA EN VIDRIO",
+  "cantidad": 4.0,
+  "valor_unit": 1100000.0,
+  "valor_total": 4400000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "FOTOCOPIADORA A MANTENIMIENTO",
+  "cantidad": 1.0,
+  "valor_unit": 330000.0,
+  "valor_total": 330000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "ESTANTERIA PARA PAPEL",
+  "cantidad": 1.0,
+  "valor_unit": 1100000.0,
+  "valor_total": 1100000.0,
+  "categoria_draft": "Papel y cartulina"
+ },
+ {
+  "bloque": "Mobiliario",
+  "nombre": "MESA DE ACERO INOXIDABLE",
+  "cantidad": 1.0,
+  "valor_unit": 1100000.0,
+  "valor_total": 1100000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0028-04",
+  "cantidad": 1029.0,
+  "valor_unit": 1452.0,
+  "valor_total": 1494108.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0050-04",
+  "cantidad": 452.0,
+  "valor_unit": 2420.0,
+  "valor_total": 1093840.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0046-04",
+  "cantidad": 232.0,
+  "valor_unit": 1210.0,
+  "valor_total": 280720.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0069-04",
+  "cantidad": 232.0,
+  "valor_unit": 4840.0,
+  "valor_total": 1122880.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0059-04",
+  "cantidad": 224.0,
+  "valor_unit": 3630.0,
+  "valor_total": 813120.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0039-04",
+  "cantidad": 213.0,
+  "valor_unit": 2420.0,
+  "valor_total": 515460.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0051-04",
+  "cantidad": 200.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1210000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0048-04",
+  "cantidad": 197.0,
+  "valor_unit": 3025.0,
+  "valor_total": 595925.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0026-04",
+  "cantidad": 195.0,
+  "valor_unit": 6050.0,
+  "valor_total": 1179750.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0025-04",
+  "cantidad": 194.0,
+  "valor_unit": 4840.0,
+  "valor_total": 938960.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0013-04",
+  "cantidad": 192.0,
+  "valor_unit": 3025.0,
+  "valor_total": 580800.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0055-04",
+  "cantidad": 187.0,
+  "valor_unit": 2420.0,
+  "valor_total": 452540.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0053-04",
+  "cantidad": 185.0,
+  "valor_unit": 4235.0,
+  "valor_total": 783475.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0032-04",
+  "cantidad": 180.0,
+  "valor_unit": 1815.0,
+  "valor_total": 326700.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0066-04",
+  "cantidad": 163.0,
+  "valor_unit": 3025.0,
+  "valor_total": 493075.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0027-04",
+  "cantidad": 158.0,
+  "valor_unit": 5445.0,
+  "valor_total": 860310.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0023-03",
+  "cantidad": 150.0,
+  "valor_unit": 6050.0,
+  "valor_total": 907500.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0017-04",
+  "cantidad": 146.0,
+  "valor_unit": 4235.0,
+  "valor_total": 618310.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0020-02",
+  "cantidad": 144.0,
+  "valor_unit": 6050.0,
+  "valor_total": 871200.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0001-04",
+  "cantidad": 137.0,
+  "valor_unit": 3025.0,
+  "valor_total": 414425.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0022-04",
+  "cantidad": 126.0,
+  "valor_unit": 3025.0,
+  "valor_total": 381150.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0038-04",
+  "cantidad": 123.0,
+  "valor_unit": 1452.0,
+  "valor_total": 178596.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0040-04",
+  "cantidad": 113.0,
+  "valor_unit": 3025.0,
+  "valor_total": 341825.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0030-04",
+  "cantidad": 112.0,
+  "valor_unit": 1210.0,
+  "valor_total": 135520.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0060-04",
+  "cantidad": 111.0,
+  "valor_unit": 2420.0,
+  "valor_total": 268620.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0010-04",
+  "cantidad": 108.0,
+  "valor_unit": 3630.0,
+  "valor_total": 392040.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "MT-03",
+  "cantidad": 107.0,
+  "valor_unit": 3025.0,
+  "valor_total": 323675.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0037-04",
+  "cantidad": 104.0,
+  "valor_unit": 2420.0,
+  "valor_total": 251680.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0041-04",
+  "cantidad": 100.0,
+  "valor_unit": 4235.0,
+  "valor_total": 423500.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0045-04",
+  "cantidad": 99.0,
+  "valor_unit": 1452.0,
+  "valor_total": 143748.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0034-04",
+  "cantidad": 97.0,
+  "valor_unit": 2420.0,
+  "valor_total": 234740.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0013-04",
+  "cantidad": 96.0,
+  "valor_unit": 3025.0,
+  "valor_total": 290400.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0074-04",
+  "cantidad": 96.0,
+  "valor_unit": 3025.0,
+  "valor_total": 290400.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0035-04",
+  "cantidad": 95.0,
+  "valor_unit": 3025.0,
+  "valor_total": 287375.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0063-04",
+  "cantidad": 90.0,
+  "valor_unit": 605.0,
+  "valor_total": 54450.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0008-04",
+  "cantidad": 89.0,
+  "valor_unit": 3025.0,
+  "valor_total": 269225.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "001-04",
+  "cantidad": 137.0,
+  "valor_unit": 3025.0,
+  "valor_total": 414425.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0058-04",
+  "cantidad": 87.0,
+  "valor_unit": 2420.0,
+  "valor_total": 210540.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0021-04",
+  "cantidad": 85.0,
+  "valor_unit": 8470.0,
+  "valor_total": 719950.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0016-04",
+  "cantidad": 84.0,
+  "valor_unit": 3025.0,
+  "valor_total": 254100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0056-04",
+  "cantidad": 82.0,
+  "valor_unit": 6050.0,
+  "valor_total": 496100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0023-04",
+  "cantidad": 80.0,
+  "valor_unit": 6050.0,
+  "valor_total": 484000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0049-04",
+  "cantidad": 79.0,
+  "valor_unit": 2420.0,
+  "valor_total": 191180.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0012-04",
+  "cantidad": 77.0,
+  "valor_unit": 3025.0,
+  "valor_total": 232925.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0047-04",
+  "cantidad": 68.0,
+  "valor_unit": 2420.0,
+  "valor_total": 164560.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0015-04",
+  "cantidad": 67.0,
+  "valor_unit": 3025.0,
+  "valor_total": 202675.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0024-04",
+  "cantidad": 64.0,
+  "valor_unit": 6050.0,
+  "valor_total": 387200.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0036-04",
+  "cantidad": 62.0,
+  "valor_unit": 1452.0,
+  "valor_total": 90024.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0020-04",
+  "cantidad": 60.0,
+  "valor_unit": 6050.0,
+  "valor_total": 363000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0071-04",
+  "cantidad": 60.0,
+  "valor_unit": 6050.0,
+  "valor_total": 363000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0070-04",
+  "cantidad": 57.0,
+  "valor_unit": 2420.0,
+  "valor_total": 137940.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0062-04",
+  "cantidad": 51.0,
+  "valor_unit": 4235.0,
+  "valor_total": 215985.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0073-04",
+  "cantidad": 60.0,
+  "valor_unit": 3630.0,
+  "valor_total": 217800.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0169-04",
+  "cantidad": 46.0,
+  "valor_unit": 6050.0,
+  "valor_total": 278300.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0018-04",
+  "cantidad": 45.0,
+  "valor_unit": 5445.0,
+  "valor_total": 245025.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0014-04",
+  "cantidad": 44.0,
+  "valor_unit": 6050.0,
+  "valor_total": 266200.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0039-04",
+  "cantidad": 42.0,
+  "valor_unit": 1815.0,
+  "valor_total": 76230.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0052-04",
+  "cantidad": 39.0,
+  "valor_unit": 6050.0,
+  "valor_total": 235950.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0019-04",
+  "cantidad": 32.0,
+  "valor_unit": 5445.0,
+  "valor_total": 174240.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0054-04",
+  "cantidad": 31.0,
+  "valor_unit": 4235.0,
+  "valor_total": 131285.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0061-04",
+  "cantidad": 30.0,
+  "valor_unit": 3025.0,
+  "valor_total": 90750.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0006-04",
+  "cantidad": 25.0,
+  "valor_unit": 3025.0,
+  "valor_total": 75625.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0115-04",
+  "cantidad": 24.0,
+  "valor_unit": 3025.0,
+  "valor_total": 72600.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0045-04",
+  "cantidad": 23.0,
+  "valor_unit": 3025.0,
+  "valor_total": 69575.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0016-04",
+  "cantidad": 22.0,
+  "valor_unit": 6050.0,
+  "valor_total": 133100.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0067-04",
+  "cantidad": 20.0,
+  "valor_unit": 6050.0,
+  "valor_total": 121000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0164-04",
+  "cantidad": 20.0,
+  "valor_unit": 6050.0,
+  "valor_total": 121000.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0072-04",
+  "cantidad": 19.0,
+  "valor_unit": 6050.0,
+  "valor_total": 114950.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0057-04",
+  "cantidad": 14.0,
+  "valor_unit": 6050.0,
+  "valor_total": 84700.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0025-04",
+  "cantidad": 10.0,
+  "valor_unit": 6050.0,
+  "valor_total": 60500.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0089-04",
+  "cantidad": 10.0,
+  "valor_unit": 6050.0,
+  "valor_total": 60500.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0068-04",
+  "cantidad": 10.0,
+  "valor_unit": 2420.0,
+  "valor_total": 24200.0,
+  "categoria_draft": "Sin clasificar"
+ },
+ {
+  "bloque": "Tarjeteria e invitaciones (SKU)",
+  "nombre": "0065-04",
+  "cantidad": 6.0,
+  "valor_unit": 6050.0,
+  "valor_total": 36300.0,
+  "categoria_draft": "Sin clasificar"
+ }
+]

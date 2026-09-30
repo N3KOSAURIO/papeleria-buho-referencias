@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Búho Papelería — comparación de direcciones visuales</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:#16131c;color:#eee;line-height:1.55;padding:44px 22px}
+.wrap{max-width:1050px;margin:0 auto}
+h1{font-size:30px;margin-bottom:6px}
+.sub{color:#a89fbb;margin-bottom:30px}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.v{background:#211d2b;border:1px solid #342d45;border-radius:14px;padding:20px}
+.v h2{font-size:19px;margin-bottom:4px}
+.v .tag{font-size:12px;color:#a89fbb;text-transform:uppercase;letter-spacing:.12em;margin-bottom:12px}
+.sw{display:flex;gap:7px;margin:12px 0}
+.sw i{width:26px;height:26px;border-radius:7px;display:block;border:1px solid #0006}
+.v p{font-size:14px;color:#cfc7de;margin-bottom:10px}
+.v a{display:inline-block;margin-top:8px;background:#781acd;color:#fff;text-decoration:none;padding:11px 18px;border-radius:99px;font-weight:600;font-size:14px}
+.v.b a{background:#241f1a;border:1px solid #5a5245}
+table{width:100%;border-collapse:collapse;margin-top:34px;font-size:14px}
+th,td{padding:11px 12px;border-bottom:1px solid #342d45;text-align:left}
+th{color:#a89fbb;font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.1em}
+.note{margin-top:28px;font-size:13px;color:#a89fbb;border-left:2px solid #781acd;padding-left:14px}
+code{background:#2a2437;padding:2px 6px;border-radius:5px;font-size:12.5px}
+@media(max-width:780px){.duo{grid-template-columns:1fr}}
+</style>
+</head>
+<body><div class="wrap">
+  <h1>Búho Papelería — 2 direcciones visuales</h1>
+  <div class="sub">Mockups con datos reales del inventario (Fundación Hogar del Niño). Precios = avalúo, pendientes de PVP.</div>
+
+  <div class="duo">
+    <div class="v a">
+      <div class="tag">Dirección A</div>
+      <h2>Feria kawaii</h2>
+      <div class="sw"><i style="background:#230051"></i><i style="background:#781acd"></i><i style="background:#ff9f1c"></i><i style="background:#8ce0c0"></i><i style="background:#ff90bb"></i></div>
+      <p>Color saturado, tarjetas redondeadas, grilla densa, mascota búho y voz manuscrita. Hereda el lenguaje del referente sin copiar su código.</p>
+      <p><b>Fuerte:</b> impacto, abundancia, público escolar.<br><b>Débil:</b> puede saturar; comunica menos el lado fundación.</p>
+      <a href="001-feria-kawaii/index.html">Abrir dirección A →</a>
+    </div>
+    <div class="v b">
+      <div class="tag">Dirección B</div>
+      <h2>Boutique editorial</h2>
+      <div class="sw"><i style="background:#faf6ef"></i><i style="background:#241f1a"></i><i style="background:#a9502f"></i><i style="background:#6e7b58"></i><i style="background:#e2d8c8"></i></div>
+      <p>Papel como objeto de valor: serif expresiva, retícula de líneas finas, mucho aire, un solo acento terracota. Se lee como catálogo impreso.</p>
+      <p><b>Fuerte:</b> credibilidad, aguanta 400 referencias.<br><b>Débil:</b> menos vendedor; exige fotos decentes.</p>
+      <a href="002-boutique-editorial/index.html">Abrir dirección B →</a>
+    </div>
+  </div>
+
+  <table>
+    <tr><th>Dimensión</th><th>A · Feria kawaii</th><th>B · Boutique editorial</th></tr>
+    <tr><td>Densidad</td><td>Alta (5 columnas)</td><td>Media-baja (4 columnas con aire)</td></tr>
+    <tr><td>Tipografía</td><td>Baloo 2 + Nunito + Caveat</td><td>Fraunces + Inter light</td></tr>
+    <tr><td>Color</td><td>Morado/violeta + 3 acentos</td><td>Papel/tinta + terracota</td></tr>
+    <tr><td>Percepción</td><td>Feria, precio, diversión</td><td>Boutique, calidad, oficio</td></tr>
+    <tr><td>Escala a 400 refs</td><td>Media (ruido de color)</td><td>Alta (la retícula ordena)</td></tr>
+    <tr><td>Lado fundación</td><td>Explícito (panel verde)</td><td>Implícito (pull-quote)</td></tr>
+    <tr><td>Fotos necesarias</td><td>Opcional (bloque de color funciona)</td><td>Recomendadas</td></tr>
+  </table>
+
+  <div class="note">
+    Referencia visual: suikawaii.com (Shopify, tema Boost) — se extrajeron tokens de diseño (paleta #230051/#781acd, fuentes Dosis+Kalam, breakpoints 480/768/1024) del CSS público, <b>sin reutilizar su código</b>.<br><br>
+    Datos verificados del inventario: 489 líneas · 475 de materiales · avalúo total 200.000.000 COP · 208.120 unidades.<br><br>
+    Archivos: <code>data/inventario.json</code> · <code>data/design-tokens-referencia.json</code>
+  </div>
+</div></body>
+</html>

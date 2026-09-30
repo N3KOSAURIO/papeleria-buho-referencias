@@ -1,0 +1,6 @@
+# No es material del proyecto (basura local / no usar)
+*.deb
+BioNey-main.zip
+Showcase _ OpenAI Developers.html
+Showcase _ OpenAI Developers_files/
+.DS_Store
